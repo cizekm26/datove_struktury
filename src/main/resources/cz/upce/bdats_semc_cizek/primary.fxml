@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="795.0" prefWidth="1024.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.upce.bdats_semc_cizek.PrimaryController">
+   <children>
+      <ListView fx:id="listViewZamky" layoutX="301.0" layoutY="78.0" prefHeight="653.0" prefWidth="423.0" />
+      <Label layoutX="18.0" layoutY="85.0" text="Typ klíče:">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <ComboBox fx:id="comboBoxTypKlice" layoutX="134.0" layoutY="80.0" onAction="#handleComboBoxTypKliceOnAction" prefHeight="31.0" prefWidth="160.0" />
+      <GridPane layoutX="15.0" layoutY="280.0" prefHeight="262.0" prefWidth="280.0" style="-fx-border-color: black;">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="115.0" minWidth="10.0" prefWidth="84.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="214.0" minWidth="10.0" prefWidth="184.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="92.0" minHeight="10.0" prefHeight="49.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="77.0" minHeight="1.0" prefHeight="33.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="63.0" minHeight="10.0" prefHeight="54.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="49.0" minHeight="10.0" prefHeight="36.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="52.0" minHeight="10.0" prefHeight="40.0" />
+            <RowConstraints maxHeight="46.0" minHeight="10.0" prefHeight="42.0" />
+        </rowConstraints>
+         <children>
+            <Label text="Název:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Label>
+            <Label text="GPS" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Label>
+            <Label text="N:" GridPane.rowIndex="2" />
+            <Label text="E:" GridPane.rowIndex="3" />
+            <TextField fx:id="textFieldNazev" GridPane.columnIndex="1" />
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="5.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <children>
+                  <TextField fx:id="textFieldStupneNVlozit" prefHeight="31.0" prefWidth="46.0" />
+                  <Label text="°" />
+                  <TextField fx:id="textFieldMinutyNVlozit" prefHeight="31.0" prefWidth="114.0" />
+               </children>
+               <GridPane.margin>
+                  <Insets />
+               </GridPane.margin>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="5.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+               <children>
+                  <TextField fx:id="textFieldStupneEVlozit" prefHeight="31.0" prefWidth="47.0" />
+                  <Label text="°" />
+                  <TextField fx:id="textFieldMinutyEVlozit" prefHeight="31.0" prefWidth="114.0" />
+               </children>
+            </HBox>
+            <Button fx:id="buttonVlozit" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonVlozitOnAction" text="Vložit" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="4" />
+            <Button fx:id="buttonVlozitFronta" alignment="CENTER_RIGHT" mnemonicParsing="false" onAction="#handleButtonVlozitFrontaOnAction" text="Vložit do fronty" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="5" />
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </GridPane>
+      <Label layoutX="16.0" layoutY="259.0" text="Vytvořit novou">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <GridPane layoutX="15.0" layoutY="571.0" prefHeight="85.0" prefWidth="280.0" style="-fx-border-color: black;">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="132.0" minWidth="10.0" prefWidth="84.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="211.0" minWidth="10.0" prefWidth="184.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label text="Počet:" />
+            <Button fx:id="buttonGenerovat" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonGenerovatOnAction" text="Generovat" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1" />
+            <Spinner fx:id="spinnerPocet" editable="true" GridPane.columnIndex="1" />
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </GridPane>
+      <Label layoutX="16.0" layoutY="553.0" text="Generovat památky">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <GridPane layoutX="15.0" layoutY="689.0" prefHeight="85.0" prefWidth="280.0" style="-fx-border-color: black;">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="196.0" minWidth="10.0" prefWidth="165.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="123.0" minWidth="10.0" prefWidth="103.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label text="Počet naimportovaných:" />
+            <Label fx:id="labelPocet" text="0" GridPane.columnIndex="1" />
+            <Button fx:id="buttonImport" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonImportOnAction" text="Importovat" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </GridPane>
+      <Label layoutX="732.0" layoutY="75.0" text="Vyhledat památku">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <GridPane layoutX="734.0" layoutY="105.0" prefHeight="97.0" prefWidth="280.0" style="-fx-border-color: black;">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="95.0" minWidth="10.0" prefWidth="58.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="184.0" minWidth="10.0" prefWidth="156.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="buttonVyhledat" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonVyhledatOnAction" text="Vyhledat" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Label text="Klíč:" />
+            <TextField fx:id="textFieldKlicVyhledat" prefHeight="31.0" prefWidth="146.0" GridPane.columnIndex="1" />
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </GridPane>
+      <GridPane layoutX="734.0" layoutY="242.0" prefHeight="135.0" prefWidth="280.0" style="-fx-border-color: black;">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="133.0" minWidth="10.0" prefWidth="93.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="187.0" minWidth="10.0" prefWidth="175.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <children>
+            <Button fx:id="buttonOdebrat" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonOdebratOnAction" text="Odebrat" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Label text="Klíč:" />
+            <TextField fx:id="textFieldKlicOdebrat" prefHeight="31.0" prefWidth="145.0" GridPane.columnIndex="1" />
+            <Button fx:id="buttonOdebratFronta" mnemonicParsing="false" onAction="#handleButtonOdebratFrontaOnAction" text="Odebrat z fronty" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </GridPane>
+      <Label layoutX="735.0" layoutY="215.0" text="Odebrat památku">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <GridPane layoutX="734.0" layoutY="415.0" prefHeight="142.0" prefWidth="280.0" style="-fx-border-color: black;">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="95.0" minWidth="10.0" prefWidth="46.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="183.0" minWidth="10.0" prefWidth="168.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <children>
+            <Button fx:id="buttonVyhledatNej" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonVyhledatNejOnAction" text="Vyhledat" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="5.0" GridPane.columnIndex="1">
+               <children>
+                  <TextField fx:id="textFieldVyhledatSN" prefHeight="31.0" prefWidth="46.0" />
+                  <Label text="°" />
+                  <TextField fx:id="textFieldVyhledatMN" prefHeight="31.0" prefWidth="114.0" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="5.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <children>
+                  <TextField fx:id="textFieldVyhledatSE" prefHeight="31.0" prefWidth="46.0" />
+                  <Label text="°" />
+                  <TextField fx:id="textFieldVyhledatME" prefHeight="31.0" prefWidth="114.0" />
+               </children>
+            </HBox>
+            <Label text="N:" />
+            <Label text="E:" GridPane.rowIndex="1" />
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </GridPane>
+      <Label layoutX="735.0" layoutY="394.0" text="Vyhledat nejbližší">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <Button fx:id="buttonUlozit" layoutX="313.0" layoutY="745.0" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonUlozitOnAction" text="Uložit" />
+      <Button fx:id="buttonNacist" layoutX="462.0" layoutY="745.0" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonNacistOnAction" text="Načíst" />
+      <Button fx:id="buttonUkoncit" layoutX="607.0" layoutY="745.0" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonUkoncitOnAction" text="Ukončit" />
+      <Button fx:id="buttonZobrazit" layoutX="616.0" layoutY="29.0" maxWidth="100.0" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonZobrazitOnAction" text="Zobrazit" />
+      <Label layoutX="14.0" layoutY="668.0" text="Importovat ze souboru">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="18.0" layoutY="143.0" text="Typ prohlídky:">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="comboBoxTypProhlidky" layoutX="134.0" layoutY="138.0" prefHeight="31.0" prefWidth="160.0" />
+      <ComboBox fx:id="comboBoxStruktura" layoutX="438.0" layoutY="29.0" prefWidth="150.0" />
+      <Label layoutX="301.0" layoutY="34.0" text="Datová struktura:">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Button fx:id="buttonPrebudovat" layoutX="20.0" layoutY="209.0" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonPrebudovatOnAction" text="Přebudovat" />
+      <GridPane layoutX="734.0" layoutY="592.0" prefHeight="174.0" prefWidth="280.0" style="-fx-border-color: black;">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="134.0" minWidth="10.0" prefWidth="110.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="170.0" minWidth="10.0" prefWidth="168.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints />
+          <RowConstraints />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="buttonVybudovat" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonVybudovatOnAction" prefWidth="100.0" text="Vybudovat" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <Label text="N:" GridPane.rowIndex="2" />
+            <Button fx:id="buttonPrebudovatFrontu" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonPrebudovatFrontuOnAction" prefWidth="100.0" text="Přebudovat" GridPane.rowIndex="4" />
+            <Button fx:id="buttonZrusitFrontu" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonZrusitFrontuOnAction" prefHeight="31.0" prefWidth="100.0" text="Zrušit" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <Label text="E:" GridPane.rowIndex="3" />
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="5.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <children>
+                  <TextField fx:id="textFieldStupneNFronta" prefHeight="31.0" prefWidth="46.0" />
+                  <Label text="°" />
+                  <TextField fx:id="textFieldMinutyNFronta" prefHeight="31.0" prefWidth="114.0" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="5.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+               <children>
+                  <TextField fx:id="textFieldStupneEFronta" prefHeight="31.0" prefWidth="46.0" />
+                  <Label text="°" />
+                  <TextField fx:id="textFieldMinutyEFronta" prefHeight="31.0" prefWidth="114.0" />
+               </children>
+            </HBox>
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </GridPane>
+      <Label layoutX="732.0" layoutY="573.0" text="Prioritní fronta">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <Button fx:id="buttonZrusit" layoutX="179.0" layoutY="209.0" minWidth="100.0" mnemonicParsing="false" onAction="#handleButtonZrusitOnAction" prefHeight="31.0" prefWidth="107.0" text="Zrušit" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,998 @@
+﻿W  PETUSE          N49 33.3690 E014 20.1690 Fri Dec 22 07:46:52 2000 PETROVICE U SEDLCAN ^   18^Black       ^S+N^0
+W  VELVSE          N50 22.7895 E014 44.6632 Fri Dec 22 07:47:19 2000 VELKE VSELISY       ^   18^Black       ^S+N^0
+W  DOLKOU          N49 03.9274 E016 28.4618 Fri Dec 22 07:43:07 2000 DOLNI KOUNICE       ^   18^Black       ^S+N^0
+W  DRITEN          N49 08.5790 E014 20.8478 Fri Dec 22 07:43:09 2000 DRITEN              ^   18^Black       ^S+N^0
+W  KOSNOR          N50 07.3245 E016 11.8987 Fri Dec 22 07:43:25 2000 KOSTELEC NAD ORLICI ^   18^Black       ^S+N^0
+W  VALTIC          N48 44.3606 E016 45.3169 Fri Dec 22 07:47:18 2000 VALTICE             ^   18^Black       ^S+N^0
+W  SINDEL          N50 18.1108 E012 36.1148 Fri Dec 22 07:47:02 2000 SINDELOVA           ^   18^Black       ^S+N^0
+W  STENOV          N49 40.1411 E013 23.7164 Fri Dec 22 07:47:08 2000 STENOVICE           ^   18^Black       ^S+N^0
+W  CHYSE           N50 06.3512 E013 14.7956 Fri Dec 22 07:43:02 2000 CHYSE               ^   18^Black       ^S+N^0
+W  HOLVPO          N50 22.5719 E015 34.6614 Fri Dec 22 07:43:12 2000 HOLOVOUSY V PODKRKON^   18^Black       ^S+N^0
+W  ROKVOR          N50 09.9689 E016 27.8094 Fri Dec 22 07:47:00 2000 ROKYTNICE V ORLICKYC^   18^Black       ^S+N^0
+W  SLATIN          N49 55.0717 E015 48.6536 Fri Dec 22 07:47:04 2000 SLATINANY           ^   18^Black       ^S+N^0
+W  DOMSIC          N50 14.0811 E013 43.5633 Fri Dec 22 07:43:08 2000 DOMOUSICE           ^   18^Black       ^S+N^0
+W  KRHUHR          N49 06.0028 E016 01.0550 Fri Dec 22 07:43:27 2000 KRHOV U HROTOVIC    ^   18^Black       ^S+N^0
+W  TREBON          N49 00.1423 E014 46.1383 Fri Dec 22 07:47:14 2000 TREBON              ^   18^Black       ^S+N^0
+W  HOSTIV          N50 04.8127 E014 15.3027 Fri Dec 22 07:43:15 2000 HOSTIVICE           ^   18^Black       ^S+N^0
+W  KACERO          N49 52.3565 E013 30.7633 Fri Dec 22 07:43:21 2000 KACEROV             ^   18^Black       ^S+N^0
+W  ZIDLCH          N49 02.1378 E016 36.7920 Fri Dec 22 07:47:28 2000 ZIDLOCHOVICE        ^   18^Black       ^S+N^0
+W  BOZEJO          N49 21.6956 E015 09.5395 Fri Dec 22 07:42:52 2000 BOZEJOV             ^   18^Black       ^S+N^0
+W  MECUPR          N49 26.4373 E013 22.4042 Fri Dec 22 07:43:37 2000 MECHOLUPY U PREDSLAV^   18^Black       ^S+N^0
+W  MNIHRA          N50 31.7592 E014 58.2678 Fri Dec 22 07:46:41 2000 MNICHOVO HRADISTE   ^   18^Black       ^S+N^0
+W  BECNTE          N50 05.1268 E012 50.3332 Fri Dec 22 07:42:48 2000 BECOV NAD TEPLOU    ^   18^Black       ^S+N^0
+W  OSTNOH          N50 18.0993 E012 56.3424 Fri Dec 22 07:46:50 2000 OSTROV NAD OHRI     ^   18^Black       ^S+N^0
+W  VRALHO          N49 42.7327 E016 49.6135 Fri Dec 22 07:47:23 2000 VRANOVA LHOTA       ^   18^Black       ^S+N^0
+W  PETURA          N50 04.0582 E013 38.1595 Fri Dec 22 07:46:52 2000 PETROVICE U RAKOVNIK^   18^Black       ^S+N^0
+W  SMIRIC          N50 17.9744 E015 52.3650 Fri Dec 22 07:47:05 2000 SMIRICE             ^   18^Black       ^S+N^0
+W  SUCUPR          N49 41.9860 E014 29.6968 Fri Dec 22 07:47:10 2000 SUCHDOL U PROSENICKE^   18^Black       ^S+N^0
+W  MORURO          N49 50.6261 E015 32.5355 Fri Dec 22 07:46:42 2000 MORAVANY U RONOVA   ^   18^Black       ^S+N^0
+W  CHVALK          N49 10.8913 E017 05.8799 Fri Dec 22 07:43:02 2000 CHVALKOVICE         ^   18^Black       ^S+N^0
+W  CHVVCE          N50 24.9627 E015 58.9568 Fri Dec 22 07:43:02 2000 CHVALKOVICE V CECHAC^   18^Black       ^S+N^0
+W  DALESI          N49 07.7035 E016 04.6287 Fri Dec 22 07:43:04 2000 DALESICE            ^   18^Black       ^S+N^0
+W  TRNUJI          N49 54.9018 E014 21.5736 Fri Dec 22 07:47:14 2000 TRNOVA U JILOVISTE  ^   18^Black       ^S+N^0
+W  NACHOD          N50 25.1533 E016 09.7264 Fri Dec 22 07:46:43 2000 NACHOD              ^   18^Black       ^S+N^0
+W  BRANKY          N49 27.6102 E017 53.6235 Fri Dec 22 07:42:52 2000 BRANKY              ^   18^Black       ^S+N^0
+W  BORUTA          N49 42.6053 E012 46.6636 Fri Dec 22 07:42:52 2000 BOR U TACHOVA       ^   18^Black       ^S+N^0
+W  KREMYZ          N50 36.2087 E013 48.8274 Fri Dec 22 07:43:27 2000 KREMYZ              ^   18^Black       ^S+N^0
+W  PROSEC          N49 24.4688 E015 07.6714 Fri Dec 22 07:46:56 2000 PROSEC-OBORISTE     ^   18^Black       ^S+N^0
+W  KRALV           N50 46.0204 E013 56.4009 Fri Dec 22 07:43:26 2000 KRASNY LES V KRUSNYC^   18^Black       ^S+N^0
+W  LEDNIC          N49 56.5897 E013 30.7479 Fri Dec 22 07:43:30 2000 LEDNICE             ^   18^Black       ^S+N^0
+W  SKRIVN          N50 01.4859 E013 45.9148 Fri Dec 22 07:47:03 2000 SKRIVAN             ^   18^Black       ^S+N^0
+W  KNEUTR          N49 16.0385 E015 40.3053 Fri Dec 22 07:43:23 2000 KNEZICE U TREBICE   ^   18^Black       ^S+N^0
+W  ROSUBR          N49 11.0136 E016 23.0954 Fri Dec 22 07:47:00 2000 ROSICE U BRNA       ^   18^Black       ^S+N^0
+W  CASLCE          N49 09.4944 E015 48.1634 Fri Dec 22 07:42:56 2000 CASLAVICE           ^   18^Black       ^S+N^0
+W  HRIMEZ          N49 41.2032 E014 16.6005 Fri Dec 22 07:43:16 2000 HRIMEZDICE          ^   18^Black       ^S+N^0
+W  SKALSK          N50 25.5936 E014 45.7663 Fri Dec 22 07:47:02 2000 SKALSKO             ^   18^Black       ^S+N^0
+W  SUCHOM          N49 53.7122 E014 04.1269 Fri Dec 22 07:47:10 2000 SUCHOMASTY          ^   18^Black       ^S+N^0
+W  DYJE            N48 50.7129 E016 06.8656 Fri Dec 22 07:43:10 2000 DYJE                ^   18^Black       ^S+N^0
+W  SNEHOV          N50 38.8493 E015 11.9056 Fri Dec 22 07:47:05 2000 SNEHOV              ^   18^Black       ^S+N^0
+W  VESUDR          N50 09.6046 E013 18.9493 Fri Dec 22 07:47:20 2000 VESCE U DRAHONIC    ^   18^Black       ^S+N^0
+W  VLASTI          N50 29.8628 E013 57.6136 Fri Dec 22 07:47:22 2000 VLASTISLAV          ^   18^Black       ^S+N^0
+W  LIBULI          N50 34.1925 E014 17.2320 Fri Dec 22 07:43:32 2000 LIBESICE U LITOMERIC^   18^Black       ^S+N^0
+W  MORBUD          N49 03.1317 E015 48.4595 Fri Dec 22 07:46:42 2000 MORAVSKE BUDEJOVICE ^   18^Black       ^S+N^0
+W  DOLKRU          N49 10.8900 E013 28.3661 Fri Dec 22 07:43:07 2000 DOLEJSI KRUSEC      ^   18^Black       ^S+N^0
+W  GRABST          N50 50.8136 E014 52.5493 Fri Dec 22 07:43:11 2000 GRABSTEJN           ^   18^Black       ^S+N^0
+W  RADUVI          N49 48.8688 E017 46.2927 Fri Dec 22 07:46:58 2000 RADKOV U VITKOVA    ^   18^Black       ^S+N^0
+W  DOMANI          N49 31.5807 E016 14.2177 Fri Dec 22 07:43:08 2000 DOMANINEK           ^   18^Black       ^S+N^0
+W  HATIN           N49 05.9345 E014 51.4008 Fri Dec 22 07:43:11 2000 HATIN               ^   18^Black       ^S+N^0
+W  LSTNZU          N49 29.0393 E013 02.7305 Fri Dec 22 07:43:35 2000 LSTENI NAD ZUBRINOU ^   18^Black       ^S+N^0
+W  TERESO          N49 53.6208 E013 42.0508 Fri Dec 22 07:47:12 2000 TERESOV             ^   18^Black       ^S+N^0
+W  CEMINY          N49 47.9251 E013 15.0338 Fri Dec 22 07:42:57 2000 CEMINY              ^   18^Black       ^S+N^0
+W  OSVRAC          N49 30.7503 E013 02.7282 Fri Dec 22 07:46:51 2000 OSVRACIN            ^   18^Black       ^S+N^0
+W  ODLOCH          N49 37.5880 E014 45.8097 Fri Dec 22 07:46:48 2000 ODLOCHOVICE         ^   18^Black       ^S+N^0
+W  SVOUSU          N49 14.4858 E013 27.0349 Fri Dec 22 07:47:11 2000 SVOJSICE U SUSICE   ^   18^Black       ^S+N^0
+W  CHOTES          N49 39.1484 E013 11.9391 Fri Dec 22 07:43:01 2000 CHOTESOV            ^   18^Black       ^S+N^0
+W  JANULI          N49 50.0301 E016 24.5389 Fri Dec 22 07:43:17 2000 JANOV U LITOMYSLE   ^   18^Black       ^S+N^0
+W  KLAUVI          N49 48.5250 E015 31.6543 Fri Dec 22 07:43:22 2000 KLASTER U VILEMOVA  ^   18^Black       ^S+N^0
+W  TVORSO          N49 44.9021 E014 37.8687 Fri Dec 22 07:47:15 2000 TVORSOVICE          ^   18^Black       ^S+N^0
+W  BIVOJA          N50 26.3467 E016 53.5399 Fri Dec 22 07:42:50 2000 BILA VODA U JAVORNIK^   18^Black       ^S+N^0
+W  CESOLE          N49 11.4474 E015 09.9277 Fri Dec 22 07:42:59 2000 CESKA OLESNA        ^   18^Black       ^S+N^0
+W  FILUCA          N49 53.8499 E015 25.3843 Fri Dec 22 07:43:10 2000 FILIPOV U CASLAVI   ^   18^Black       ^S+N^0
+W  BRANIS          N48 57.6665 E016 26.0111 Fri Dec 22 07:42:52 2000 BRANISOVICE         ^   18^Black       ^S+N^0
+W  DOKSYZ          N50 33.8320 E014 39.2041 Fri Dec 22 07:43:06 2000 DOKSY U MACHOVA JEZE^   18^Black       ^S+N^0
+W  BUSOVI          N49 47.9225 E013 32.0080 Fri Dec 22 07:42:55 2000 BUSOVICE            ^   18^Black       ^S+N^0
+W  HOSTLY          N50 06.7632 E017 35.8890 Fri Dec 22 07:43:15 2000 HOSTALKOVY          ^   18^Black       ^S+N^0
+W  KVETOV          N49 25.1422 E014 18.2906 Fri Dec 22 07:43:29 2000 KVETOV              ^   18^Black       ^S+N^0
+W  MILETI          N50 24.2739 E015 40.6353 Fri Dec 22 07:46:40 2000 MILETIN             ^   18^Black       ^S+N^0
+W  OSEURA          N49 18.9405 E013 57.8956 Fri Dec 22 07:46:50 2000 OSEK U RADOMYSLE    ^   18^Black       ^S+N^0
+W  PNOVAN          N49 46.6363 E013 07.2224 Fri Dec 22 07:46:53 2000 PNOVANY             ^   18^Black       ^S+N^0
+W  KOSATK          N50 19.0172 E014 39.6569 Fri Dec 22 07:43:25 2000 KOSATKY             ^   18^Black       ^S+N^0
+W  TYNNVL          N49 13.4417 E014 25.3137 Fri Dec 22 07:47:16 2000 TYN NAD VLTAVOU     ^   18^Black       ^S+N^0
+W  ZBOZI           N49 43.1409 E015 27.4861 Fri Dec 22 07:47:27 2000 ZBOZI               ^   18^Black       ^S+N^0
+W  HORSOV          N49 32.0944 E012 54.6967 Fri Dec 22 07:43:14 2000 HORSOV              ^   18^Black       ^S+N^0
+W  ZBRASL          N49 48.7619 E015 10.8280 Fri Dec 22 07:47:27 2000 ZBRASLAVICE         ^   18^Black       ^S+N^0
+W  BARTOS          N49 40.2878 E018 03.0428 Fri Dec 22 07:42:48 2000 BARTOSOVICE         ^   18^Black       ^S+N^0
+W  BYNOVE          N50 49.4257 E014 15.8753 Fri Dec 22 07:42:55 2000 BYNOVEC             ^   18^Black       ^S+N^0
+W  BYSUPO          N49 37.8906 E016 20.9183 Fri Dec 22 07:42:56 2000 BYSTRE U POLICKY    ^   18^Black       ^S+N^0
+W  SVENSA          N49 40.0226 E015 24.4728 Fri Dec 22 07:47:11 2000 SVETLA NAD SAZAVOU  ^   18^Black       ^S+N^0
+W  RUDUCE          N48 59.3582 E014 32.7948 Fri Dec 22 07:47:01 2000 RUDOLFOV U CESKYCH B^   18^Black       ^S+N^0
+W  VEROVA          N49 28.4986 E017 16.9379 Fri Dec 22 07:47:19 2000 VEROVANY            ^   18^Black       ^S+N^0
+W  ZNOJMO          N48 51.3540 E016 02.5440 Fri Dec 22 07:47:29 2000 ZNOJMO MESTO        ^   18^Black       ^S+N^0
+W  HRUNJE          N48 50.0447 E016 24.0919 Fri Dec 22 07:43:17 2000 HRUSOVANY NAD JEVISO^   18^Black       ^S+N^0
+W  NOVSU           N50 20.5158 E013 28.4195 Fri Dec 22 07:46:47 2000 NOVE SEDLO U ZATCE  ^   18^Black       ^S+N^0
+W  VELORE          N49 06.5384 E017 40.2863 Fri Dec 22 07:47:19 2000 VELKY ORECHOV       ^   18^Black       ^S+N^0
+W  MORKRU          N49 02.9335 E016 18.3994 Fri Dec 22 07:46:42 2000 MORAVSKY KRUMLOV    ^   18^Black       ^S+N^0
+W  BRTNIC          N49 18.3366 E015 40.4389 Fri Dec 22 07:42:54 2000 BRTNICE             ^   18^Black       ^S+N^0
+W  HREBEC          N49 59.1491 E013 45.2090 Fri Dec 22 07:43:16 2000 HREBECNIKY          ^   18^Black       ^S+N^0
+W  STRVPO          N49 12.5817 E013 43.8266 Fri Dec 22 07:47:09 2000 STRASICE V POSUMAVI ^   18^Black       ^S+N^0
+W  HORMAR          N50 39.7569 E015 49.0984 Fri Dec 22 07:43:13 2000 HORNI MARSOV        ^   18^Black       ^S+N^0
+W  RITKA           N49 53.7547 E014 17.5043 Fri Dec 22 07:46:59 2000 RITKA               ^   18^Black       ^S+N^0
+W  MILUKY          N48 57.6124 E017 08.3274 Fri Dec 22 07:46:40 2000 MILOTICE U KYJOVA   ^   18^Black       ^S+N^0
+W  VELBRE          N50 39.6848 E014 08.3701 Fri Dec 22 07:47:18 2000 VELKE BREZNO        ^   18^Black       ^S+N^0
+W  LHORAP          N49 28.9003 E016 37.8252 Fri Dec 22 07:43:31 2000 LHOTA RAPOTINA      ^   18^Black       ^S+N^0
+W  BLUDOV          N49 56.4326 E016 55.8793 Fri Dec 22 07:42:50 2000 BLUDOV              ^   18^Black       ^S+N^0
+W  PRSTIC          N49 07.1138 E016 28.3775 Fri Dec 22 07:46:56 2000 PRSTICE             ^   18^Black       ^S+N^0
+W  VERUSI          N50 08.5592 E013 10.3806 Fri Dec 22 07:47:20 2000 VERUSICKY           ^   18^Black       ^S+N^0
+W  UHEUZN          N48 54.9010 E015 38.0845 Fri Dec 22 07:47:16 2000 UHERCICE U ZNOJMA   ^   18^Black       ^S+N^0
+W  VLASIM          N49 42.3516 E014 53.3072 Fri Dec 22 07:47:22 2000 VLASIM              ^   18^Black       ^S+N^0
+W  KRIMIC          N49 45.4531 E013 18.2904 Fri Dec 22 07:43:27 2000 KRIMICE             ^   18^Black       ^S+N^0
+W  SUKORA          N50 31.7966 E014 26.2876 Fri Dec 22 07:47:10 2000 SUKORADY            ^   18^Black       ^S+N^0
+W  VIZOVI          N49 13.1739 E017 50.9736 Fri Dec 22 07:47:21 2000 VIZOVICE            ^   18^Black       ^S+N^0
+W  RYCHVA          N49 51.8891 E018 21.0589 Fri Dec 22 07:47:01 2000 RYCHVALD            ^   18^Black       ^S+N^0
+W  OSECAN          N49 41.8238 E014 26.0359 Fri Dec 22 07:46:49 2000 OSECANY             ^   18^Black       ^S+N^0
+W  BILICH          N50 15.4677 E013 54.6219 Fri Dec 22 07:42:49 2000 BILICHOV            ^   18^Black       ^S+N^0
+W  PREUPR          N49 23.4388 E017 28.9078 Fri Dec 22 07:46:55 2000 PRESTAVLKY U PREROVA^   18^Black       ^S+N^0
+W  VEZ             N49 33.7295 E015 27.4240 Fri Dec 22 07:47:21 2000 VEZ                 ^   18^Black       ^S+N^0
+W  KASTIC          N50 15.9067 E013 25.9003 Fri Dec 22 07:43:22 2000 KASTICE             ^   18^Black       ^S+N^0
+W  CHOLTI          N49 59.1620 E015 37.1575 Fri Dec 22 07:43:00 2000 CHOLTICE            ^   18^Black       ^S+N^0
+W  NOVHOR          N49 41.5444 E018 04.3023 Fri Dec 22 07:46:46 2000 NOVA HORKA          ^   18^Black       ^S+N^0
+W  SMECNO          N50 11.3156 E014 02.1983 Fri Dec 22 07:47:04 2000 SMECNO              ^   18^Black       ^S+N^0
+W  KOSHOR          N49 39.1974 E014 28.3814 Fri Dec 22 07:43:25 2000 KOSOVA HORA         ^   18^Black       ^S+N^0
+W  SOBOTI          N50 01.1550 E017 04.8780 Fri Dec 22 07:47:05 2000 SOBOTIN             ^   18^Black       ^S+N^0
+W  STRELA          N49 15.9986 E013 51.3798 Fri Dec 22 07:47:08 2000 STRELA              ^   18^Black       ^S+N^0
+W  JESENN          N50 39.4325 E015 20.2374 Fri Dec 22 07:43:18 2000 JESENNY             ^   18^Black       ^S+N^0
+W  KOURIM          N49 59.8289 E014 57.6463 Fri Dec 22 07:43:26 2000 KOURIM              ^   18^Black       ^S+N^0
+W  BUSTEH          N50 09.2402 E014 11.6450 Fri Dec 22 07:42:55 2000 BUSTEHRAD           ^   18^Black       ^S+N^0
+W  MASTOV          N50 15.8758 E013 16.8707 Fri Dec 22 07:43:36 2000 MASTOV              ^   18^Black       ^S+N^0
+W  POLAKY          N50 20.3420 E013 21.3613 Fri Dec 22 07:46:54 2000 POLAKY              ^   18^Black       ^S+N^0
+W  BILPOL          N50 23.4718 E015 43.6746 Fri Dec 22 07:42:49 2000 BILE POLICANY       ^   18^Black       ^S+N^0
+W  HRANVL          N49 04.6999 E017 53.6106 Fri Dec 22 07:43:16 2000 HRADEK NA VLARSKE DR^   18^Black       ^S+N^0
+W  PTENI           N49 30.6306 E016 57.6273 Fri Dec 22 07:46:57 2000 PTENI               ^   18^Black       ^S+N^0
+W  ZICHOV          N49 16.0038 E013 37.5524 Fri Dec 22 07:47:28 2000 ZICHOVICE           ^   18^Black       ^S+N^0
+W  SLAUJE          N49 01.2675 E016 01.0212 Fri Dec 22 07:47:04 2000 SLATINA U JEVISOVIC ^   18^Black       ^S+N^0
+W  STRUKU          N49 08.6137 E015 09.9802 Fri Dec 22 07:47:09 2000 STRIZOVICE U KUNZAKU^   18^Black       ^S+N^0
+W  MALESO          N49 54.6907 E015 13.2954 Fri Dec 22 07:43:36 2000 MALESOV             ^   18^Black       ^S+N^0
+W  CHOTOV          N49 28.7290 E014 40.9203 Fri Dec 22 07:43:01 2000 CHOTOVINY           ^   18^Black       ^S+N^0
+W  DUKOVA          N49 04.9033 E016 11.6550 Fri Dec 22 07:43:10 2000 DUKOVANY            ^   18^Black       ^S+N^0
+W  NADEJK          N49 30.1632 E014 28.5024 Fri Dec 22 07:46:43 2000 NADEJKOV            ^   18^Black       ^S+N^0
+W  PAVUPR          N49 28.3016 E017 33.4229 Fri Dec 22 07:46:52 2000 PAVLOVICE U PREROVA ^   18^Black       ^S+N^0
+W  KOSETI          N49 33.4875 E015 06.6737 Fri Dec 22 07:43:25 2000 KOSETICE            ^   18^Black       ^S+N^0
+W  ZVIKOV          N49 57.3029 E013 41.4505 Fri Dec 22 07:47:29 2000 ZVIKOVEC            ^   18^Black       ^S+N^0
+W  DREVOH          N49 25.7511 E017 35.5466 Fri Dec 22 07:43:09 2000 DREVOHOSTICE        ^   18^Black       ^S+N^0
+W  HABRY           N49 45.3875 E015 29.2361 Fri Dec 22 07:43:11 2000 HABRY               ^   18^Black       ^S+N^0
+W  PODNBE          N49 56.4184 E013 42.1181 Fri Dec 22 07:46:54 2000 PODMOKLY NAD BEROUNK^   18^Black       ^S+N^0
+W  SEDLAT          N49 11.5839 E015 36.6689 Fri Dec 22 07:47:02 2000 SEDLATICE           ^   18^Black       ^S+N^0
+W  MSEC            N50 12.2735 E013 54.1340 Fri Dec 22 07:46:42 2000 MSEC                ^   18^Black       ^S+N^0
+W  ORLNVL          N49 30.7709 E014 10.1178 Fri Dec 22 07:46:49 2000 ORLIK NAD VLTAVOU   ^   18^Black       ^S+N^0
+W  CHVALS          N48 50.7618 E014 13.8038 Fri Dec 22 07:43:02 2000 CHVALSINY           ^   18^Black       ^S+N^0
+W  KNEZIC          N50 08.8707 E015 20.3648 Fri Dec 22 07:43:23 2000 KNEZICKY            ^   18^Black       ^S+N^0
+W  MILULO          N50 32.5278 E013 56.0259 Fri Dec 22 07:46:40 2000 MILESOV U LOVOSIC   ^   18^Black       ^S+N^0
+W  MSTISO          N50 40.1959 E013 46.1771 Fri Dec 22 07:46:43 2000 MSTISOV             ^   18^Black       ^S+N^0
+W  PASKOV          N49 43.8464 E018 17.7405 Fri Dec 22 07:46:51 2000 PASKOV              ^   18^Black       ^S+N^0
+W  BILINA          N50 32.8188 E013 46.7166 Fri Dec 22 07:42:49 2000 BILINA              ^   18^Black       ^S+N^0
+W  ZIVUKA          N49 28.1419 E013 40.8400 Fri Dec 22 07:47:29 2000 ZIVOTICE U KASEJOVIC^   18^Black       ^S+N^0
+W  CERHON          N49 25.1563 E014 03.4542 Fri Dec 22 07:42:57 2000 CERHONICE           ^   18^Black       ^S+N^0
+W  LCOVIC          N49 06.9439 E013 51.1995 Fri Dec 22 07:43:30 2000 LCOVICE             ^   18^Black       ^S+N^0
+W  STABLO          N49 52.7015 E017 49.0298 Fri Dec 22 07:47:06 2000 STABLOVICE          ^   18^Black       ^S+N^0
+W  VILUKA          N50 17.9667 E013 18.6773 Fri Dec 22 07:47:21 2000 VILEMOV U KADANE    ^   18^Black       ^S+N^0
+W  OHRADA          N49 02.4970 E014 25.1936 Fri Dec 22 07:46:48 2000 HLUBOKA NAD VLTAVOU ^   18^Black       ^S+N^0
+W  SPAPOR          N49 36.8465 E013 36.4529 Fri Dec 22 07:47:06 2000 SPALENE PORICI      ^   18^Black       ^S+N^0
+W  NEUSTU          N49 36.8915 E014 41.7481 Fri Dec 22 07:46:45 2000 NEUSTUPOV           ^   18^Black       ^S+N^0
+W  LIBA            N50 07.8537 E012 14.1054 Fri Dec 22 07:43:31 2000 LIBA                ^   18^Black       ^S+N^0
+W  NALHOR          N49 19.9292 E013 32.9755 Fri Dec 22 07:46:43 2000 NALZOVSKE HORY      ^   18^Black       ^S+N^0
+W  NEJDZ           N50 19.1125 E012 44.0147 Fri Dec 22 07:46:44 2000 NEJDEK              ^   18^Black       ^S+N^0
+W  UDRC            N50 07.7146 E013 05.2272 Fri Dec 22 07:47:16 2000 UDRC                ^   18^Black       ^S+N^0
+W  HRAUMA          N49 44.9987 E015 40.9986 Fri Dec 22 07:43:16 2000 HRANICE U MALCE     ^   18^Black       ^S+N^0
+W  MCELY           N50 17.9370 E015 04.6626 Fri Dec 22 07:43:36 2000 MCELY               ^   18^Black       ^S+N^0
+W  STEZER          N50 12.7859 E015 45.0445 Fri Dec 22 07:47:08 2000 STEZERY             ^   18^Black       ^S+N^0
+W  BUDEC           N49 05.1994 E015 35.2801 Fri Dec 22 07:42:54 2000 BUDEC               ^   18^Black       ^S+N^0
+W  VLABRE          N49 05.0011 E013 57.5760 Fri Dec 22 07:47:22 2000 VLACHOVO BREZI      ^   18^Black       ^S+N^0
+W  SLABCE          N49 59.9680 E013 42.6566 Fri Dec 22 07:47:03 2000 SLABCE              ^   18^Black       ^S+N^0
+W  NEZOVI          N49 28.6801 E014 19.9897 Fri Dec 22 07:46:45 2000 NEZOVICE            ^   18^Black       ^S+N^0
+W  VOTICE          N49 38.2974 E014 38.8581 Fri Dec 22 07:47:23 2000 VOTICE              ^   18^Black       ^S+N^0
+W  BOROVA          N48 53.8414 E014 38.3820 Fri Dec 22 07:42:51 2000 BOROVANY            ^   18^Black       ^S+N^0
+W  DOLTES          N49 11.3625 E013 25.6975 Fri Dec 22 07:43:08 2000 DOLEJSI TESOV       ^   18^Black       ^S+N^0
+W  OKROUH          N49 37.7734 E015 29.4749 Fri Dec 22 07:46:48 2000 OKROUHLICE          ^   18^Black       ^S+N^0
+W  LESHLU          N49 15.9059 E016 18.5429 Fri Dec 22 07:43:30 2000 LESNI HLUBOKE       ^   18^Black       ^S+N^0
+W  TRMICE          N50 38.5145 E013 59.4212 Fri Dec 22 07:47:14 2000 TRMICE              ^   18^Black       ^S+N^0
+W  STAVNA          N49 43.7369 E018 11.2800 Fri Dec 22 07:47:07 2000 STARA VES NAD ONDREJ^   18^Black       ^S+N^0
+W  TMAN            N49 54.2285 E014 02.1960 Fri Dec 22 07:47:13 2000 TMAN                ^   18^Black       ^S+N^0
+W  CESTIC          N49 10.0299 E013 47.9805 Fri Dec 22 07:42:59 2000 CESTICE             ^   18^Black       ^S+N^0
+W  DRHOVL          N49 20.2614 E014 02.8993 Fri Dec 22 07:43:09 2000 DRHOVLE             ^   18^Black       ^S+N^0
+W  DOLSTA          N49 12.8675 E013 29.2496 Fri Dec 22 07:43:08 2000 DOLNI STANKOV       ^   18^Black       ^S+N^0
+W  LOVOSI          N50 30.9108 E014 03.1526 Fri Dec 22 07:43:35 2000 LOVOSICE            ^   18^Black       ^S+N^0
+W  BESTVI          N49 50.1742 E015 35.6322 Fri Dec 22 07:42:49 2000 BESTVINA            ^   18^Black       ^S+N^0
+W  ZALUZA          N49 32.4485 E014 04.9750 Fri Dec 22 07:47:26 2000 ZALUZANY            ^   18^Black       ^S+N^0
+W  LUHULI          N49 48.8276 E013 08.7416 Fri Dec 22 07:43:35 2000 LUHOV U LISTAN      ^   18^Black       ^S+N^0
+W  ZAMBER          N50 05.0676 E016 28.0891 Fri Dec 22 07:47:26 2000 ZAMBERK             ^   18^Black       ^S+N^0
+W  SOUTIC          N49 43.7357 E015 03.3247 Fri Dec 22 07:47:06 2000 SOUTICE             ^   18^Black       ^S+N^0
+W  KYJVSL          N49 49.7597 E018 02.8562 Fri Dec 22 07:43:29 2000 KYJOVICE VE SLEZSKU ^   18^Black       ^S+N^0
+W  OLEURA          N50 07.7880 E013 41.8522 Fri Dec 22 07:46:49 2000 OLESNA U RAKOVNIKA  ^   18^Black       ^S+N^0
+W  BUDISO          N49 16.5445 E016 00.7380 Fri Dec 22 07:42:54 2000 BUDISOV             ^   18^Black       ^S+N^0
+W  BILLHO          N49 42.6207 E016 58.6402 Fri Dec 22 07:42:49 2000 BILA LHOTA          ^   18^Black       ^S+N^0
+W  KOSNC           N49 59.6937 E014 51.7217 Fri Dec 22 07:43:25 2000 KOSTELEC N. C. LESY ^   18^Black       ^S+N^0
+W  CEKANI          N49 22.5891 E013 53.0444 Fri Dec 22 07:42:57 2000 CEKANICE            ^   18^Black       ^S+N^0
+W  TYNUJA          N49 20.7867 E013 15.9083 Fri Dec 22 07:47:16 2000 TYNEC U JANOVIC NAD ^   18^Black       ^S+N^0
+W  HAZLOV          N50 09.5608 E012 16.7369 Fri Dec 22 07:43:11 2000 HAZLOV              ^   18^Black       ^S+N^0
+W  KROMER          N49 18.0173 E017 23.6012 Fri Dec 22 07:43:28 2000 KROMERIZ            ^   18^Black       ^S+N^0
+W  LIBEJO          N49 06.6941 E014 10.8091 Fri Dec 22 07:43:32 2000 LIBEJOVICE          ^   18^Black       ^S+N^0
+W  VLASTE          N49 22.4990 E014 13.4291 Fri Dec 22 07:47:22 2000 VLASTEC             ^   18^Black       ^S+N^0
+W  STATEN          N50 08.5424 E014 19.1722 Fri Dec 22 07:47:07 2000 STATENICE           ^   18^Black       ^S+N^0
+W  MELC            N49 50.9107 E017 45.8234 Fri Dec 22 07:43:37 2000 MELC                ^   18^Black       ^S+N^0
+W  HOROSE          N49 30.8572 E014 02.9634 Fri Dec 22 07:43:14 2000 HOROSEDLY           ^   18^Black       ^S+N^0
+W  TLUNMO          N49 15.1824 E017 29.8592 Fri Dec 22 07:47:13 2000 TLUMACOV NA MORAVE  ^   18^Black       ^S+N^0
+W  SOBOTK          N50 28.2419 E015 10.2193 Fri Dec 22 07:47:05 2000 SOBOTKA             ^   18^Black       ^S+N^0
+W  LIBLIC          N50 18.7520 E014 35.1882 Fri Dec 22 07:43:32 2000 LIBLICE             ^   18^Black       ^S+N^0
+W  MERUPR          N49 33.7154 E013 12.0646 Fri Dec 22 07:43:37 2000 MERKLIN U PRESTIC   ^   18^Black       ^S+N^0
+W  PTYROV          N50 30.8374 E014 55.7103 Fri Dec 22 07:46:57 2000 PTYROV              ^   18^Black       ^S+N^0
+W  CHOTER          N49 43.5168 E015 40.4637 Fri Dec 22 07:43:01 2000 CHOTEBOR            ^   18^Black       ^S+N^0
+W  DIVAKY          N48 59.4316 E016 47.1638 Fri Dec 22 07:43:05 2000 DIVAKY              ^   18^Black       ^S+N^0
+W  LIBEDI          N50 18.8099 E013 23.0299 Fri Dec 22 07:43:31 2000 LIBEDICE            ^   18^Black       ^S+N^0
+W  BONREP          N50 14.5201 E014 47.6215 Fri Dec 22 07:42:51 2000 STARA LYSA - BON REP^   18^Black       ^S+N^0
+W  ZINKOV          N49 28.7380 E013 30.2474 Fri Dec 22 07:47:28 2000 ZINKOVY             ^   18^Black       ^S+N^0
+W  TOVACO          N49 25.8142 E017 17.4880 Fri Dec 22 07:47:13 2000 TOVACOV             ^   18^Black       ^S+N^0
+W  TELC            N49 11.0844 E015 27.0487 Fri Dec 22 07:47:12 2000 TELC                ^   18^Black       ^S+N^0
+W  KRESET          N49 54.6198 E015 15.9752 Fri Dec 22 07:43:27 2000 KRESETICE           ^   18^Black       ^S+N^0
+W  CAKOVI          N50 09.1746 E014 31.2933 Fri Dec 22 07:42:56 2000 CAKOVICE            ^   18^Black       ^S+N^0
+W  PROSTI          N49 39.3931 E012 54.7888 Fri Dec 22 07:46:56 2000 PROSTIBOR           ^   18^Black       ^S+N^0
+W  DOLBRE          N49 57.7522 E014 27.4238 Fri Dec 22 07:43:07 2000 DOLNI BREZANY       ^   18^Black       ^S+N^0
+W  LIBECH          N50 24.5211 E014 26.6867 Fri Dec 22 07:43:31 2000 LIBECHOV            ^   18^Black       ^S+N^0
+W  VEVERI          N49 12.2585 E016 41.8585 Fri Dec 22 07:47:20 2000 VEVERI - ZAMEK      ^   18^Black       ^S+N^0
+W  RATBOR          N49 58.6560 E015 09.3683 Fri Dec 22 07:46:59 2000 RATBOR              ^   18^Black       ^S+N^0
+W  ROUNLA          N50 25.5228 E014 15.6877 Fri Dec 22 07:47:00 2000 ROUDNICE NAD LABEM  ^   18^Black       ^S+N^0
+W  CHRANC          N49 50.9184 E013 09.4852 Fri Dec 22 07:43:01 2000 CHRANCOVICE         ^   18^Black       ^S+N^0
+W  PRIBYS          N49 34.4518 E015 44.7007 Fri Dec 22 07:46:56 2000 PRIBYSLAV           ^   18^Black       ^S+N^0
+W  DOUBRA          N49 51.6317 E018 28.9256 Fri Dec 22 07:43:08 2000 DOUBRAVA            ^   18^Black       ^S+N^0
+W  STIPA           N49 16.4042 E017 43.0396 Fri Dec 22 07:47:08 2000 STIPA               ^   18^Black       ^S+N^0
+W  JABVPO          N50 45.8827 E014 45.1174 Fri Dec 22 07:43:17 2000 JABLONNE V PODJESTED^   18^Black       ^S+N^0
+W  JAROME          N49 37.6382 E016 45.2677 Fri Dec 22 07:43:17 2000 JAROMERICE          ^   18^Black       ^S+N^0
+W  RYCNKN          N50 09.9741 E016 16.6188 Fri Dec 22 07:47:01 2000 RYCHNOV NAD KNEZNOU ^   18^Black       ^S+N^0
+W  BUKOVA          N49 34.3269 E014 06.1547 Fri Dec 22 07:42:55 2000 BUKOVANY            ^   18^Black       ^S+N^0
+W  DOLROZ          N49 28.5308 E016 12.5192 Fri Dec 22 07:43:08 2000 DOLNI ROZINKA       ^   18^Black       ^S+N^0
+W  MIKUZN          N48 57.3291 E016 05.6226 Fri Dec 22 07:46:40 2000 MIKULOVICE U ZNOJMA ^   18^Black       ^S+N^0
+W  JIMRAM          N49 38.2717 E016 13.3564 Fri Dec 22 07:43:19 2000 JIMRAMOV            ^   18^Black       ^S+N^0
+W  JINDRI          N50 15.1767 E017 32.1808 Fri Dec 22 07:43:20 2000 JINDRICHOV          ^   18^Black       ^S+N^0
+W  RIMOV           N48 51.3373 E014 29.3341 Fri Dec 22 07:46:59 2000 RIMOV               ^   18^Black       ^S+N^0
+W  CERREC          N49 30.6332 E015 10.6513 Fri Dec 22 07:42:58 2000 CERVENA RECICE      ^   18^Black       ^S+N^0
+W  DEFLAZ          N49 24.3761 E013 40.6765 Fri Dec 22 07:43:04 2000 DEFUROVY LAZANY     ^   18^Black       ^S+N^0
+W  TUCHOR          N50 02.7682 E014 50.8247 Fri Dec 22 07:47:15 2000 TUCHORAZ            ^   18^Black       ^S+N^0
+W  OSELCE          N49 26.0421 E013 40.4689 Fri Dec 22 07:46:49 2000 OSELCE              ^   18^Black       ^S+N^0
+W  CERNBY          N50 20.1515 E015 43.4770 Fri Dec 22 07:42:58 2000 CEREKVICE NAD BYSTRI^   18^Black       ^S+N^0
+W  KOBYLA          N50 20.4592 E017 07.5591 Fri Dec 22 07:43:23 2000 KOBYLA              ^   18^Black       ^S+N^0
+W  TRNUPL          N49 51.4269 E013 20.1279 Fri Dec 22 07:47:14 2000 TRNOVA U PLZNE      ^   18^Black       ^S+N^0
+W  TUCUSO          N49 17.5178 E014 48.4313 Fri Dec 22 07:47:15 2000 TUCAPY U SOBESLAVI  ^   18^Black       ^S+N^0
+W  LIBVOD          N49 22.5788 E015 11.4775 Fri Dec 22 07:43:32 2000 LIBKOVA VODA        ^   18^Black       ^S+N^0
+W  LIPNSA          N49 36.7319 E015 24.6553 Fri Dec 22 07:43:33 2000 LIPNICE NAD SAZAVOU ^   18^Black       ^S+N^0
+W  KOLNLU          N49 15.1103 E014 25.0932 Fri Dec 22 07:43:24 2000 KOLODEJE NAD LUZNICI^   18^Black       ^S+N^0
+W  CERNIC          N49 36.3894 E015 04.1921 Fri Dec 22 07:42:58 2000 CERNICI             ^   18^Black       ^S+N^0
+W  TUPADL          N50 26.7291 E014 28.5484 Fri Dec 22 07:47:15 2000 TUPADLY             ^   18^Black       ^S+N^0
+W  NEJEPI          N49 44.5944 E015 36.2141 Fri Dec 22 07:46:44 2000 NEJEPIN             ^   18^Black       ^S+N^0
+W  JESNOD          N49 37.1670 E017 54.6837 Fri Dec 22 07:43:18 2000 JESENIK NAD ODROU   ^   18^Black       ^S+N^0
+W  KOVANI          N50 10.2252 E015 04.4080 Fri Dec 22 07:43:26 2000 KOVANICE            ^   18^Black       ^S+N^0
+W  VRCJAN          N49 40.3007 E014 34.8000 Fri Dec 22 07:47:24 2000 VRCHOTOVY JANOVICE  ^   18^Black       ^S+N^0
+W  DOBRNY          N50 18.3168 E013 36.1713 Fri Dec 22 07:43:06 2000 DOBRICANY           ^   18^Black       ^S+N^0
+W  HRUBSI          N49 05.5805 E016 18.4657 Fri Dec 22 07:43:16 2000 HRUBSICE            ^   18^Black       ^S+N^0
+W  NOVJPR          N49 35.7418 E018 00.3826 Fri Dec 22 07:46:46 2000 NOVY JICIN-DOLNI PRE^   18^Black       ^S+N^0
+W  VRBULO          N50 27.8299 E014 05.5660 Fri Dec 22 07:47:24 2000 VRBICANY U LOVOSIC  ^   18^Black       ^S+N^0
+W  NASAVR          N49 50.6364 E015 48.3555 Fri Dec 22 07:46:44 2000 NASAVRKY            ^   18^Black       ^S+N^0
+W  SUDOVI          N49 47.1899 E014 18.6269 Fri Dec 22 07:47:10 2000 SUDOVICE            ^   18^Black       ^S+N^0
+W  HORMOS          N49 24.7907 E017 28.1327 Fri Dec 22 07:43:13 2000 HORNI MOSTENICE     ^   18^Black       ^S+N^0
+W  PISUSL          N48 57.7875 E015 27.7475 Fri Dec 22 07:46:52 2000 PISECNE U SLAVONIC  ^   18^Black       ^S+N^0
+W  SEDUBL          N49 22.3947 E013 56.4411 Fri Dec 22 07:47:02 2000 SEDLICE U BLATNE    ^   18^Black       ^S+N^0
+W  NOVDUK          N49 58.3496 E015 19.3503 Fri Dec 22 07:46:46 2000 NOVE DVORY U KUTNE H^   18^Black       ^S+N^0
+W  ZLEBY           N49 53.2680 E015 28.9921 Fri Dec 22 07:47:29 2000 ZLEBY               ^   18^Black       ^S+N^0
+W  BZENEC          N48 58.6295 E017 15.7284 Fri Dec 22 07:42:56 2000 BZENEC              ^   18^Black       ^S+N^0
+W  TESANY          N49 02.3837 E016 46.2967 Fri Dec 22 07:47:13 2000 TESANY              ^   18^Black       ^S+N^0
+W  UJEUHO          N49 32.1833 E013 24.1297 Fri Dec 22 07:47:17 2000 UJEZD U HORSIC      ^   18^Black       ^S+N^0
+W  ZBESIC          N49 23.5148 E014 25.3842 Fri Dec 22 07:47:27 2000 ZBESICKY            ^   18^Black       ^S+N^0
+W  CERJAN          N49 50.1099 E015 15.2292 Fri Dec 22 07:42:58 2000 CERVENE JANOVICE    ^   18^Black       ^S+N^0
+W  PARDUB          N50 02.4425 E015 46.5708 Fri Dec 22 07:46:51 2000 PARDUBICE           ^   18^Black       ^S+N^0
+W  KOUNSA          N49 43.0108 E015 10.1334 Fri Dec 22 07:43:25 2000 KOUNICE NAD SAZAVOU ^   18^Black       ^S+N^0
+W  CHUDEN          N49 28.1406 E013 10.6056 Fri Dec 22 07:43:02 2000 CHUDENICE           ^   18^Black       ^S+N^0
+W  NAHOSI          N49 29.1552 E012 59.1160 Fri Dec 22 07:46:43 2000 NAHOSICE            ^   18^Black       ^S+N^0
+W  CERNA           N49 25.3044 E015 51.6598 Fri Dec 22 07:42:58 2000 CERNA               ^   18^Black       ^S+N^0
+W  BRANLA          N50 11.2500 E014 39.9672 Fri Dec 22 07:42:52 2000 BRANDYS NAD LABEM   ^   18^Black       ^S+N^0
+W  VESULI          N49 31.8022 E017 30.2435 Fri Dec 22 07:47:20 2000 VESELICKO U LIPNIKA ^   18^Black       ^S+N^0
+W  PAVURY          N49 23.9358 E015 14.6060 Fri Dec 22 07:46:52 2000 PAVLOV U RYNARCE    ^   18^Black       ^S+N^0
+W  BOLECH          N49 36.7216 E014 30.0831 Fri Dec 22 07:42:51 2000 BOLECHOVICE         ^   18^Black       ^S+N^0
+W  ZBIROH          N49 51.4965 E013 45.7445 Fri Dec 22 07:47:27 2000 ZBIROH              ^   18^Black       ^S+N^0
+W  ZDECHO          N50 00.8383 E015 28.3098 Fri Dec 22 07:47:27 2000 ZDECHOVICE          ^   18^Black       ^S+N^0
+W  CERPOR          N49 30.0075 E013 17.6615 Fri Dec 22 07:42:58 2000 CERVENE PORICI      ^   18^Black       ^S+N^0
+W  VILULE          N49 41.2689 E015 19.3004 Fri Dec 22 07:47:21 2000 VILEMOVICE U LEDC N ^   18^Black       ^S+N^0
+W  HORTER          N49 45.1441 E018 29.5607 Fri Dec 22 07:43:14 2000 HORNI TERLICKO      ^   18^Black       ^S+N^0
+W  NOVSTU          N49 43.1306 E015 46.9467 Fri Dec 22 07:46:47 2000 NOVY STUDENEC       ^   18^Black       ^S+N^0
+W  OREUUH          N49 01.9511 E017 18.1565 Fri Dec 22 07:46:49 2000 ORECHOV U UH HRADIST^   18^Black       ^S+N^0
+W  LITEN           N49 54.2980 E014 09.0273 Fri Dec 22 07:43:33 2000 LITEN               ^   18^Black       ^S+N^0
+W  MLAZOV          N49 18.8748 E013 24.2749 Fri Dec 22 07:46:41 2000 MLAZOVY             ^   18^Black       ^S+N^0
+W  ZAMRSK          N49 59.3680 E016 07.9375 Fri Dec 22 07:47:26 2000 ZAMRSK              ^   18^Black       ^S+N^0
+W  SKRUSJ          N49 38.7480 E014 17.9088 Fri Dec 22 07:47:03 2000 SKRYSOV U SVATEHO JA^   18^Black       ^S+N^0
+W  CELINA          N49 43.8914 E014 19.8349 Fri Dec 22 07:42:57 2000 CELINA              ^   18^Black       ^S+N^0
+W  BEZNO           N50 22.1612 E014 47.5227 Fri Dec 22 07:42:49 2000 BEZNO               ^   18^Black       ^S+N^0
+W  CHVNHA          N49 19.1967 E017 06.9546 Fri Dec 22 07:43:02 2000 CHVALKOVICE NA HANE ^   18^Black       ^S+N^0
+W  MYSLKO          N49 17.9105 E014 44.8914 Fri Dec 22 07:46:43 2000 MYSLKOVICE          ^   18^Black       ^S+N^0
+W  CERHAT          N50 00.4958 E013 20.0584 Fri Dec 22 07:42:57 2000 CERNA HAT           ^   18^Black       ^S+N^0
+W  KACINA          N49 58.8904 E015 20.7437 Fri Dec 22 07:43:21 2000 KACINA              ^   18^Black       ^S+N^0
+W  LEDNMZ          N48 48.1135 E016 48.2205 Fri Dec 22 07:43:30 2000 LEDNICE NA MORAVE - ^   18^Black       ^S+N^0
+W  UHRUKR          N49 16.8419 E017 12.2805 Fri Dec 22 07:47:16 2000 UHRICE U KROMERIZE  ^   18^Black       ^S+N^0
+W  OLTYNE          N49 25.3855 E014 31.3853 Fri Dec 22 07:46:49 2000 OLTYNE              ^   18^Black       ^S+N^0
+W  VELOPA          N49 36.6096 E016 40.0905 Fri Dec 22 07:47:19 2000 VELKE OPATOVICE     ^   18^Black       ^S+N^0
+W  VYSUKO          N49 37.6601 E014 31.5192 Fri Dec 22 07:47:25 2000 VYSOKA U KOSOVY HORY^   18^Black       ^S+N^0
+W  JILEMN          N50 36.8975 E015 30.2738 Fri Dec 22 07:43:19 2000 JILEMNICE           ^   18^Black       ^S+N^0
+W  JICINE          N50 22.4007 E015 20.4839 Fri Dec 22 07:43:19 2000 JICINEVES           ^   18^Black       ^S+N^0
+W  OBOUCH          N50 21.5200 E015 30.6742 Fri Dec 22 07:46:48 2000 OBORA U CHOMUTIC    ^   18^Black       ^S+N^0
+W  RADNBO          N49 28.3029 E016 05.2425 Fri Dec 22 07:46:58 2000 RADESIN NAD BOBRUVKO^   18^Black       ^S+N^0
+W  VLCUJA          N50 20.6330 E017 02.8650 Fri Dec 22 07:47:22 2000 VLCICE U JAVORNIKA  ^   18^Black       ^S+N^0
+W  ZAKY            N49 53.2101 E015 22.1528 Fri Dec 22 07:47:26 2000 ZAKY                ^   18^Black       ^S+N^0
+W  LANSKR          N49 54.7576 E016 36.6723 Fri Dec 22 07:43:29 2000 LANSKROUN           ^   18^Black       ^S+N^0
+W  DOUNOR          N50 06.5276 E016 15.8215 Fri Dec 22 07:43:08 2000 DOUDLEBY NAD ORLICI ^   18^Black       ^S+N^0
+W  NOVRYC          N49 22.9947 E015 21.7904 Fri Dec 22 07:46:47 2000 NOVY RYCHNOV        ^   18^Black       ^S+N^0
+W  CHOTYC          N49 44.7528 E014 48.7239 Fri Dec 22 07:43:01 2000 CHOTYCANY           ^   18^Black       ^S+N^0
+W  ZAMZDA          N49 34.8960 E015 56.1025 Fri Dec 22 07:47:26 2000 ZAMEK ZDAR          ^   18^Black       ^S+N^0
+W  LETOVI          N49 32.5631 E016 34.4981 Fri Dec 22 07:43:31 2000 LETOVICE            ^   18^Black       ^S+N^0
+W  NOVVUH          N49 45.5098 E015 39.0227 Fri Dec 22 07:46:47 2000 NOVA VES U CHOTEBORE^   18^Black       ^S+N^0
+W  OBYTCE          N49 23.5612 E013 22.4093 Fri Dec 22 07:46:48 2000 OBYTCE              ^   18^Black       ^S+N^0
+W  DLOLUD          N49 43.1022 E014 06.9706 Fri Dec 22 07:43:05 2000 DLOUHA LHOTA U DOBRI^   18^Black       ^S+N^0
+W  JINUMA          N49 17.7689 E013 23.5806 Fri Dec 22 07:43:20 2000 JINDRICHOVICE U MALO^   18^Black       ^S+N^0
+W  NALZOV          N49 41.9113 E014 22.4417 Fri Dec 22 07:46:43 2000 NALZOVICE           ^   18^Black       ^S+N^0
+W  PUKLIC          N49 21.6197 E015 39.0536 Fri Dec 22 07:46:57 2000 PUKLICE             ^   18^Black       ^S+N^0
+W  PTENIN          N49 31.7172 E013 11.2741 Fri Dec 22 07:46:57 2000 PTENIN              ^   18^Black       ^S+N^0
+W  SLEPAV          N50 18.6696 E017 42.1300 Fri Dec 22 07:47:04 2000 SLEZSKE PAVLOVICE   ^   18^Black       ^S+N^0
+W  CECUBU          N49 35.0891 E013 01.2609 Fri Dec 22 07:42:57 2000 CECOVICE U BUKOVCE  ^   18^Black       ^S+N^0
+W  JAROSL          N48 45.5193 E016 14.0889 Fri Dec 22 07:43:18 2000 JAROSLAVICE         ^   18^Black       ^S+N^0
+W  STRZHO          N49 22.6908 E015 55.6647 Fri Dec 22 07:47:09 2000 STRANECKA ZHOR      ^   18^Black       ^S+N^0
+W  NAMNHA          N49 35.8435 E017 03.8680 Fri Dec 22 07:46:44 2000 NAMEST NA HANE      ^   18^Black       ^S+N^0
+W  LOMUTI          N49 24.2512 E016 24.9165 Fri Dec 22 07:43:34 2000 LOMNICE U TISNOVA   ^   18^Black       ^S+N^0
+W  LUZUPR          N49 32.8231 E013 19.0426 Fri Dec 22 07:43:35 2000 LUZANY U PRESTIC    ^   18^Black       ^S+N^0
+W  RATICE          N50 24.8893 E016 03.1516 Fri Dec 22 07:46:59 2000 RATIBORICE U CESKE S^   18^Black       ^S+N^0
+W  STSEHR          N49 34.6848 E014 00.2938 Fri Dec 22 07:47:10 2000 STAROSEDLSKY HRADEK ^   18^Black       ^S+N^0
+W  HLUSIC          N50 15.9466 E015 24.1493 Fri Dec 22 07:43:12 2000 HLUSICE             ^   18^Black       ^S+N^0
+W  LOMNPO          N50 31.9794 E015 22.1818 Fri Dec 22 07:43:34 2000 LOMNICE NAD POPELKOU^   18^Black       ^S+N^0
+W  NOVBEN          N50 17.4530 E014 49.4111 Fri Dec 22 07:46:46 2000 NOVE BENATKY        ^   18^Black       ^S+N^0
+W  HORAZD          N49 19.3486 E013 41.9964 Fri Dec 22 07:43:12 2000 HORAZDOVICE         ^   18^Black       ^S+N^0
+W  KLOKOC          N49 48.4156 E015 40.0356 Fri Dec 22 07:43:22 2000 KLOKOCOV            ^   18^Black       ^S+N^0
+W  RADURO          N49 51.3458 E013 36.2231 Fri Dec 22 07:46:58 2000 RADNICE U ROKYCAN   ^   18^Black       ^S+N^0
+W  LOCHOV          N49 51.1141 E013 58.8300 Fri Dec 22 07:43:34 2000 LOCHOVICE           ^   18^Black       ^S+N^0
+W  STEKNI          N50 19.4086 E013 37.4256 Fri Dec 22 07:47:08 2000 STEKNIK             ^   18^Black       ^S+N^0
+W  TAZOVI          N49 13.9219 E013 45.6135 Fri Dec 22 07:47:12 2000 TAZOVICE            ^   18^Black       ^S+N^0
+W  SVIHLN          N49 53.5603 E013 37.2779 Fri Dec 22 07:47:11 2000 SVINNA U HLOHOVIC   ^   18^Black       ^S+N^0
+W  VEVERB          N49 08.2108 E016 39.1696 Fri Dec 22 07:47:20 2000 VEVERI - BRNO (USTAV^   18^Black       ^S+N^0
+W  KOMUHO          N49 48.5314 E013 51.4094 Fri Dec 22 07:43:24 2000 KOMAROV U HOROVIC   ^   18^Black       ^S+N^0
+W  GOLJEN          N49 48.9911 E015 28.7356 Fri Dec 22 07:43:10 2000 GOLCUV JENIKOV      ^   18^Black       ^S+N^0
+W  JIRNY           N50 07.0683 E014 41.4317 Fri Dec 22 07:43:20 2000 JIRNY               ^   18^Black       ^S+N^0
+W  KLOUBR          N48 59.8127 E016 51.4813 Fri Dec 22 07:43:22 2000 KLOBOUKY U BRNA     ^   18^Black       ^S+N^0
+W  KRNSKO          N50 22.7547 E014 51.3184 Fri Dec 22 07:43:28 2000 KRNSKO              ^   18^Black       ^S+N^0
+W  BYCHOR          N50 03.8793 E015 16.5951 Fri Dec 22 07:42:55 2000 BYCHORY             ^   18^Black       ^S+N^0
+W  VETJEN          N49 28.5410 E015 28.5727 Fri Dec 22 07:47:20 2000 VETRNY JENIKOV      ^   18^Black       ^S+N^0
+W  NEZNHA          N49 19.6061 E017 10.4420 Fri Dec 22 07:46:45 2000 NEZAMYSLICE NAD HANO^   18^Black       ^S+N^0
+W  BELPBE          N50 30.0739 E014 48.4899 Fri Dec 22 07:42:48 2000 BELA POD BEZDEZEM   ^   18^Black       ^S+N^0
+W  BREURO          N49 48.8276 E013 36.3293 Fri Dec 22 07:42:53 2000 BREZINA U ROKYCAN   ^   18^Black       ^S+N^0
+W  OBRIST          N50 17.7722 E014 28.8732 Fri Dec 22 07:46:48 2000 OBRISTVI            ^   18^Black       ^S+N^0
+W  UHEBRO          N49 01.9048 E017 38.6937 Fri Dec 22 07:47:16 2000 UHERSKY BROD        ^   18^Black       ^S+N^0
+W  KUPARO          N49 02.5150 E016 29.4741 Fri Dec 22 07:43:28 2000 KUPAROVICE          ^   18^Black       ^S+N^0
+W  KLUUCA          N49 54.4370 E015 19.7948 Fri Dec 22 07:43:23 2000 KLUKY U CASLAVI     ^   18^Black       ^S+N^0
+W  PUCLIC          N49 33.3175 E013 01.1212 Fri Dec 22 07:46:57 2000 PUCLICE             ^   18^Black       ^S+N^0
+W  STOKY           N49 30.1130 E015 35.4004 Fri Dec 22 07:47:08 2000 STOKY               ^   18^Black       ^S+N^0
+W  JESENE          N49 36.7048 E016 51.8566 Fri Dec 22 07:43:18 2000 JESENEC             ^   18^Black       ^S+N^0
+W  PELHRI          N49 25.8374 E015 13.1940 Fri Dec 22 07:46:52 2000 PELHRIMOV           ^   18^Black       ^S+N^0
+W  VLASAT          N48 55.9786 E016 28.5661 Fri Dec 22 07:47:22 2000 VLASATICE           ^   18^Black       ^S+N^0
+W  JEVICK          N49 37.8790 E016 42.4745 Fri Dec 22 07:43:19 2000 JEVICKO PREDMESTI   ^   18^Black       ^S+N^0
+W  LINHAR          N50 08.3300 E017 36.8858 Fri Dec 22 07:43:33 2000 LINHARTOVY          ^   18^Black       ^S+N^0
+W  HUSNBE          N49 31.7983 E017 52.0534 Fri Dec 22 07:43:17 2000 HUSTOPECE NAD BECVOU^   18^Black       ^S+N^0
+W  SLAVIC          N49 05.3771 E017 52.5964 Fri Dec 22 07:47:04 2000 SLAVICIN            ^   18^Black       ^S+N^0
+W  VSEMYS          N49 13.8112 E014 22.7371 Fri Dec 22 07:47:24 2000 VSEMYSLICE          ^   18^Black       ^S+N^0
+W  NOVMNM          N50 20.6510 E016 08.9855 Fri Dec 22 07:46:47 2000 NOVE MESTO NAD METUJ^   18^Black       ^S+N^0
+W  CHREST          N49 19.2932 E014 17.3189 Fri Dec 22 07:43:02 2000 CHRESTOVICE         ^   18^Black       ^S+N^0
+W  DOLBEN          N49 55.0499 E018 06.9709 Fri Dec 22 07:43:06 2000 DOLNI BENESOV       ^   18^Black       ^S+N^0
+W  BUDNOH          N50 24.2868 E014 07.4135 Fri Dec 22 07:42:55 2000 BUDYNE NAD OHRI     ^   18^Black       ^S+N^0
+W  BRAUTU          N49 18.2594 E014 47.2346 Fri Dec 22 07:42:53 2000 BRANDLIN U TUCAP    ^   18^Black       ^S+N^0
+W  ROCHLO          N49 43.8515 E013 08.6554 Fri Dec 22 07:46:59 2000 ROCHLOV             ^   18^Black       ^S+N^0
+W  ROZTOK          N49 59.7169 E013 53.7271 Fri Dec 22 07:47:00 2000 ROZTOKY             ^   18^Black       ^S+N^0
+W  BREUCH          N50 22.2101 E013 26.0763 Fri Dec 22 07:42:53 2000 BREZNO U CHOMUTOVA  ^   18^Black       ^S+N^0
+W  BUDISL          N49 17.7277 E014 50.3046 Fri Dec 22 07:42:54 2000 BUDISLAV            ^   18^Black       ^S+N^0
+W  CERHUJ          N50 30.7151 E013 26.7072 Fri Dec 22 07:42:58 2000 CERVENY HRADEK U JIR^   18^Black       ^S+N^0
+W  LNAREZ          N49 27.0772 E013 47.8521 Fri Dec 22 07:43:34 2000 LNARE               ^   18^Black       ^S+N^0
+W  HRUBCI          N49 26.7553 E017 11.6600 Fri Dec 22 07:43:16 2000 HRUBCICE            ^   18^Black       ^S+N^0
+W  VELBUK          N50 43.8201 E014 23.9242 Fri Dec 22 07:47:18 2000 VELKA BUKOVINA      ^   18^Black       ^S+N^0
+W  DOLKU           N49 39.4986 E015 36.2949 Fri Dec 22 07:43:07 2000 DOLNI KRUPA U HAVL B^   18^Black       ^S+N^0
+W  BYSNUH          N49 18.3392 E013 09.3278 Fri Dec 22 07:42:55 2000 BYSTRICE NAD UHLAVOU^   18^Black       ^S+N^0
+W  KLANOH          N50 23.0367 E013 10.3423 Fri Dec 22 07:43:22 2000 KLASTEREC NAD OHRI  ^   18^Black       ^S+N^0
+W  POZDEC          N49 13.4688 E017 59.1666 Fri Dec 22 07:46:55 2000 POZDECHOV           ^   18^Black       ^S+N^0
+W  JERICE          N50 20.4579 E015 40.9178 Fri Dec 22 07:43:18 2000 JERICE              ^   18^Black       ^S+N^0
+W  KRUKAN          N49 50.5746 E013 05.6701 Fri Dec 22 07:43:28 2000 KRUKANICE           ^   18^Black       ^S+N^0
+W  STEMPL          N49 58.8247 E017 47.2882 Fri Dec 22 07:47:08 2000 STEMPLOVEC          ^   18^Black       ^S+N^0
+W  CEJKOV          N48 54.3126 E016 56.8288 Fri Dec 22 07:42:57 2000 CEJKOVICE           ^   18^Black       ^S+N^0
+W  SLOVCE          N50 44.3853 E014 35.3002 Fri Dec 22 07:47:04 2000 SLOUP V CECHACH     ^   18^Black       ^S+N^0
+W  KUNNMO          N49 30.0538 E016 30.8240 Fri Dec 22 07:43:28 2000 KUNSTAT NA MORAVE   ^   18^Black       ^S+N^0
+W  BLAHOT          N50 14.2304 E014 07.3855 Fri Dec 22 07:42:50 2000 BLAHOTICE           ^   18^Black       ^S+N^0
+W  UHEOST          N48 59.1367 E017 23.5169 Fri Dec 22 07:47:16 2000 UHERSKY OSTROH      ^   18^Black       ^S+N^0
+W  VRSULO          N50 21.8895 E013 50.5458 Fri Dec 22 07:47:24 2000 VRSOVICE U LOUN     ^   18^Black       ^S+N^0
+W  PLUZDA          N49 13.5344 E014 53.5441 Fri Dec 22 07:46:53 2000 PLUHUV ZDAR         ^   18^Black       ^S+N^0
+W  ZEHUSI          N49 57.9479 E015 24.6884 Fri Dec 22 07:47:28 2000 ZEHUSICE            ^   18^Black       ^S+N^0
+W  KRAVSK          N48 55.3143 E015 59.0665 Fri Dec 22 07:43:27 2000 KRAVSKO             ^   18^Black       ^S+N^0
+W  OSTULE          N49 41.4659 E015 17.8868 Fri Dec 22 07:46:51 2000 OSTROV U LEDCE N S  ^   18^Black       ^S+N^0
+W  DOLLUK          N49 36.0791 E013 20.6835 Fri Dec 22 07:43:07 2000 DOLNI LUKAVICE      ^   18^Black       ^S+N^0
+W  KONARO          N50 02.3034 E015 17.2611 Fri Dec 22 07:43:24 2000 KONAROVICE          ^   18^Black       ^S+N^0
+W  BRANOR          N50 00.1328 E016 17.1309 Fri Dec 22 07:42:52 2000 BRANDYS NAD ORLICI  ^   18^Black       ^S+N^0
+W  BUDISK          N49 04.5582 E015 31.9375 Fri Dec 22 07:42:54 2000 BUDISKOVICE         ^   18^Black       ^S+N^0
+W  BZIUDO          N49 10.9144 E014 32.5473 Fri Dec 22 07:42:56 2000 BZI U DOLNIHO BUKOVS^   18^Black       ^S+N^0
+W  DOLBER          N50 23.5735 E014 27.2175 Fri Dec 22 07:43:06 2000 DOLNI BERKOVICE     ^   18^Black       ^S+N^0
+W  LIBOCY          N50 33.8964 E014 02.3428 Fri Dec 22 07:43:32 2000 LIBOCHOVANY         ^   18^Black       ^S+N^0
+W  SUCUKU          N49 57.2064 E015 09.9593 Fri Dec 22 07:47:10 2000 SUCHDOL U KUTNE HORY^   18^Black       ^S+N^0
+W  PROSTE          N49 28.3286 E017 06.5240 Fri Dec 22 07:46:56 2000 PROSTEJOV           ^   18^Black       ^S+N^0
+W  DALIME          N50 35.9576 E015 09.4546 Fri Dec 22 07:43:04 2000 DALIMERICE          ^   18^Black       ^S+N^0
+W  LICKOV          N50 16.6509 E013 37.6278 Fri Dec 22 07:43:33 2000 LICKOV              ^   18^Black       ^S+N^0
+W  KRIZAN          N49 23.5045 E016 06.6580 Fri Dec 22 07:43:28 2000 KRIZANOV            ^   18^Black       ^S+N^0
+W  KLECUV          N49 13.7340 E017 46.4269 Fri Dec 22 07:43:22 2000 KLECUVKA            ^   18^Black       ^S+N^0
+W  RATHOR          N49 27.8020 E014 46.3836 Fri Dec 22 07:46:59 2000 RATIBORSKE HORY     ^   18^Black       ^S+N^0
+W  HORDUN          N48 56.9429 E016 09.5136 Fri Dec 22 07:43:13 2000 HORNI DUNAJOVICE    ^   18^Black       ^S+N^0
+W  LUKAVI          N49 53.4264 E015 50.2828 Fri Dec 22 07:43:35 2000 LUKAVICE            ^   18^Black       ^S+N^0
+W  VRAUBR          N49 50.4047 E013 33.5893 Fri Dec 22 07:47:23 2000 VRANOVICE U BRAS    ^   18^Black       ^S+N^0
+W  VINURA          N50 18.3696 E013 16.3303 Fri Dec 22 07:47:21 2000 VINTIROV U RADONIC  ^   18^Black       ^S+N^0
+W  KAMLU           N49 30.3023 E014 35.3475 Fri Dec 22 07:43:21 2000 KAMENNA LHOTA U BORO^   18^Black       ^S+N^0
+W  KRADVU          N50 15.1394 E013 22.2555 Fri Dec 22 07:43:26 2000 KRASNY DVUR         ^   18^Black       ^S+N^0
+W  ZLIN            N49 13.5048 E017 39.7781 Fri Dec 22 07:47:29 2000 ZLIN                ^   18^Black       ^S+N^0
+W  CHLNCI          N50 09.5595 E015 26.9953 Fri Dec 22 07:43:00 2000 CHLUMEC NAD CIDLINOU^   18^Black       ^S+N^0
+W  STAMPO          N48 59.7406 E015 15.2578 Fri Dec 22 07:47:07 2000 STARE MESTO POD LAND^   18^Black       ^S+N^0
+W  PRIUPR          N49 33.6291 E013 20.3629 Fri Dec 22 07:46:56 2000 PRICHOVICE U PRESTIC^   18^Black       ^S+N^0
+W  MECIN           N49 28.9273 E013 24.2732 Fri Dec 22 07:43:37 2000 MECIN               ^   18^Black       ^S+N^0
+W  TRPIST          N49 49.3889 E013 03.5635 Fri Dec 22 07:47:15 2000 TRPISTY             ^   18^Black       ^S+N^0
+W  DOUUVO          N49 10.6054 E013 49.7907 Fri Dec 22 07:43:09 2000 DOUBRAVICE U VOLYNE ^   18^Black       ^S+N^0
+W  VREUPR          N49 24.1817 E017 08.2337 Fri Dec 22 07:47:24 2000 VRESOVICE U PROSTEJO^   18^Black       ^S+N^0
+W  OKRISK          N49 14.5270 E015 45.8572 Fri Dec 22 07:46:48 2000 OKRISKY             ^   18^Black       ^S+N^0
+W  ROZSOC          N49 40.5312 E015 37.9419 Fri Dec 22 07:47:00 2000 ROZSOCHATEC         ^   18^Black       ^S+N^0
+W  KYNZVT          N50 00.2177 E012 36.3462 Fri Dec 22 07:43:29 2000 KYNZVART            ^   18^Black       ^S+N^0
+W  KALEK           N50 34.5170 E013 19.9738 Fri Dec 22 07:43:21 2000 KALEK               ^   18^Black       ^S+N^0
+W  RYBNIC          N48 47.0436 E016 47.6711 Fri Dec 22 07:47:01 2000 LEDNICE NA MORAVE - ^   18^Black       ^S+N^0
+W  KOVUKO          N49 18.8877 E017 17.6306 Fri Dec 22 07:43:26 2000 KOVALOVICE U KOJETIN^   18^Black       ^S+N^0
+W  STECHO          N49 15.4875 E013 46.0043 Fri Dec 22 07:47:07 2000 STECHOVICE          ^   18^Black       ^S+N^0
+W  ZDIKOV          N49 04.9818 E013 41.7621 Fri Dec 22 07:47:28 2000 ZDIKOV              ^   18^Black       ^S+N^0
+W  SOBCIC          N50 22.3929 E015 31.2049 Fri Dec 22 07:47:05 2000 SOBCICE             ^   18^Black       ^S+N^0
+W  CESRUD          N49 03.9673 E015 19.6191 Fri Dec 22 07:42:59 2000 CESKY RUDOLEC       ^   18^Black       ^S+N^0
+W  PRISEK          N49 20.3811 E015 38.8129 Fri Dec 22 07:46:56 2000 PRISEKA             ^   18^Black       ^S+N^0
+W  TACHOV          N49 47.6457 E012 37.9321 Fri Dec 22 07:47:12 2000 TACHOV              ^   18^Black       ^S+N^0
+W  BATELO          N49 18.8606 E015 23.7779 Fri Dec 22 07:42:48 2000 BATELOV             ^   18^Black       ^S+N^0
+W  LISTAN          N49 49.7635 E013 11.0304 Fri Dec 22 07:43:33 2000 LISTANY             ^   18^Black       ^S+N^0
+W  VELVIS          N49 50.2760 E013 54.5076 Fri Dec 22 07:47:19 2000 VELKA VISKA         ^   18^Black       ^S+N^0
+W  VISNOV          N48 58.8265 E016 08.9381 Fri Dec 22 07:47:21 2000 VISNOVE             ^   18^Black       ^S+N^0
+W  VLKYS           N49 42.9284 E013 05.6392 Fri Dec 22 07:47:22 2000 VLKYS               ^   18^Black       ^S+N^0
+W  JINHRA          N49 08.4683 E015 00.0313 Fri Dec 22 07:43:20 2000 JINDRICHUV HRADEC   ^   18^Black       ^S+N^0
+W  DOLOPL          N49 21.1060 E017 09.5733 Fri Dec 22 07:43:07 2000 DOLOPLAZY           ^   18^Black       ^S+N^0
+W  HRANMO          N49 51.9445 E017 52.3750 Fri Dec 22 07:43:15 2000 HRADEC NAD MORAVICI ^   18^Black       ^S+N^0
+W  HORBER          N50 21.5986 E014 20.8652 Fri Dec 22 07:43:13 2000 HORNI BERKOVICE     ^   18^Black       ^S+N^0
+W  KRCHLE          N49 44.2030 E014 27.8558 Fri Dec 22 07:43:27 2000 KRCHLEBY            ^   18^Black       ^S+N^0
+W  PLANIC          N49 23.3796 E013 28.6464 Fri Dec 22 07:46:53 2000 PLANICE             ^   18^Black       ^S+N^0
+W  DOUUNE          N48 56.1936 E014 30.5852 Fri Dec 22 07:43:09 2000 DOUBRAVICE U NEDABYL^   18^Black       ^S+N^0
+W  SLAVCE          N50 18.9438 E014 06.1952 Fri Dec 22 07:47:04 2000 SLAPANICE V CECHACH ^   18^Black       ^S+N^0
+W  SVOUKO          N50 00.2499 E015 02.5264 Fri Dec 22 07:47:11 2000 SVOJSICE U KOURIMI  ^   18^Black       ^S+N^0
+W  PRENLA          N50 09.5479 E014 49.3927 Fri Dec 22 07:46:55 2000 PREROV NAD LABEM    ^   18^Black       ^S+N^0
+W  HLUBOS          N49 44.8532 E014 01.1262 Fri Dec 22 07:43:12 2000 HLUBOS              ^   18^Black       ^S+N^0
+W  STEBOR          N49 56.1828 E017 48.4714 Fri Dec 22 07:47:07 2000 STEBORICE           ^   18^Black       ^S+N^0
+W  VRAUPI          N49 22.6702 E014 07.6504 Fri Dec 22 07:47:23 2000 VRAZ U PISKU        ^   18^Black       ^S+N^0
+W  STAHLA          N49 40.6161 E013 30.3691 Fri Dec 22 07:47:06 2000 STAHLAVY            ^   18^Black       ^S+N^0
+W  STEKEN          N49 16.0694 E014 00.1145 Fri Dec 22 07:47:08 2000 STEKEN              ^   18^Black       ^S+N^0
+W  CECPKO          N49 32.8927 E017 02.2532 Fri Dec 22 07:42:56 2000 CECHY POD KOSIREM   ^   18^Black       ^S+N^0
+W  MELNIK          N50 21.0656 E014 28.2974 Fri Dec 22 07:43:37 2000 MELNIK              ^   18^Black       ^S+N^0
+W  DRIUKR          N49 17.5152 E017 14.0820 Fri Dec 22 07:43:09 2000 DRINOV U KROMERIZE  ^   18^Black       ^S+N^0
+W  LOUPBL          N49 38.1494 E014 50.7629 Fri Dec 22 07:43:34 2000 LOUNOVICE POD BLANIK^   18^Black       ^S+N^0
+W  NEKMIR          N49 51.3124 E013 15.5130 Fri Dec 22 07:46:44 2000 NEKMIR              ^   18^Black       ^S+N^0
+W  ZAHUPE          N49 33.2673 E014 18.1255 Fri Dec 22 07:47:26 2000 ZAHRADKA U PETROVIC ^   18^Black       ^S+N^0
+W  KACOV           N49 46.6131 E015 01.7675 Fri Dec 22 07:43:21 2000 KACOV               ^   18^Black       ^S+N^0
+W  PANBRE          N50 12.9739 E014 26.4756 Fri Dec 22 07:46:51 2000 PANENSKE BREZANY    ^   18^Black       ^S+N^0
+W  ROPICE          N49 42.3503 E018 36.7685 Fri Dec 22 07:47:00 2000 ROPICE              ^   18^Black       ^S+N^0
+W  LIPNBE          N49 31.3207 E017 34.6569 Fri Dec 22 07:43:33 2000 LIPNIK NAD BECVOU   ^   18^Black       ^S+N^0
+W  PRUHON          N49 59.9795 E014 33.4160 Fri Dec 22 07:46:57 2000 PRUHONICE           ^   18^Black       ^S+N^0
+W  DOKSAN          N50 27.3999 E014 09.6604 Fri Dec 22 07:43:06 2000 DOKSANY             ^   18^Black       ^S+N^0
+W  MORTRE          N49 45.4403 E016 40.0123 Fri Dec 22 07:46:42 2000 MORAVSKA TREBOVA    ^   18^Black       ^S+N^0
+W  CESKRU          N48 48.7495 E014 18.8909 Fri Dec 22 07:42:59 2000 CESKY KRUMLOV       ^   18^Black       ^S+N^0
+W  HORCER          N49 19.0203 E015 19.7884 Fri Dec 22 07:43:13 2000 HORNI CEREKEV       ^   18^Black       ^S+N^0
+W  KACUKY          N50 08.9210 E012 30.4223 Fri Dec 22 07:43:21 2000 KACEROV U KYNSPERKA ^   18^Black       ^S+N^0
+W  VIMPER          N49 03.2824 E013 46.3226 Fri Dec 22 07:47:21 2000 VIMPERK             ^   18^Black       ^S+N^0
+W  POSTOL          N50 21.6024 E013 42.2311 Fri Dec 22 07:46:54 2000 POSTOLOPRTY         ^   18^Black       ^S+N^0
+W  BRECLA          N48 45.5270 E016 52.5010 Fri Dec 22 07:42:53 2000 BRECLAV             ^   18^Black       ^S+N^0
+W  JINVKR          N50 16.8697 E012 36.3324 Fri Dec 22 07:43:20 2000 JINDRICHOVICE V KRUS^   18^Black       ^S+N^0
+W  MARLAZ          N50 01.5013 E012 40.0638 Fri Dec 22 07:43:36 2000 MARIANSKE LAZNE     ^   18^Black       ^S+N^0
+W  KOLEC           N50 11.8371 E014 13.3017 Fri Dec 22 07:43:23 2000 KOLEC               ^   18^Black       ^S+N^0
+W  VELZER          N50 32.3180 E014 03.9724 Fri Dec 22 07:47:19 2000 VELKE ZERNOSEKY     ^   18^Black       ^S+N^0
+W  KRASON          N49 06.9581 E015 36.8231 Fri Dec 22 07:43:26 2000 KRASONICE           ^   18^Black       ^S+N^0
+W  VALUHR          N49 08.8107 E016 02.1542 Fri Dec 22 07:47:18 2000 VALEC U HROTOVIC    ^   18^Black       ^S+N^0
+W  DLOUHO          N50 04.4419 E016 25.9085 Fri Dec 22 07:43:05 2000 DLOUHONOVICE        ^   18^Black       ^S+N^0
+W  KANUDO          N49 28.6003 E013 04.4419 Fri Dec 22 07:43:21 2000 KANICE U DOMAZLIC   ^   18^Black       ^S+N^0
+W  BENNPL          N50 44.4806 E014 18.5992 Fri Dec 22 07:42:49 2000 BENESOV NAD PLOUCNIC^   18^Black       ^S+N^0
+W  DRAZIC          N49 18.2826 E014 22.8900 Fri Dec 22 07:43:09 2000 DRAZIC              ^   18^Black       ^S+N^0
+W  DECIN           N50 46.9384 E014 12.5949 Fri Dec 22 07:43:04 2000 DECIN               ^   18^Black       ^S+N^0
+W  CERBUD          N49 52.4968 E014 53.7260 Fri Dec 22 07:42:57 2000 CERNE BUDY          ^   18^Black       ^S+N^0
+W  KNOVIC          N49 41.3036 E014 23.9583 Fri Dec 22 07:43:23 2000 KNOVICE             ^   18^Black       ^S+N^0
+W  RABSTE          N50 02.6201 E013 17.6048 Fri Dec 22 07:46:57 2000 RABSTEJN            ^   18^Black       ^S+N^0
+W  MEZIME          N50 37.6777 E016 14.5698 Fri Dec 22 07:43:37 2000 MEZIMESTI           ^   18^Black       ^S+N^0
+W  ENCOVA          N50 31.6742 E014 14.8019 Fri Dec 22 07:43:10 2000 ENCOVANY            ^   18^Black       ^S+N^0
+W  NETOLI          N49 03.5025 E014 10.0312 Fri Dec 22 07:46:45 2000 NETOLICE            ^   18^Black       ^S+N^0
+W  POPELI          N49 12.6319 E015 10.6043 Fri Dec 22 07:46:54 2000 POPELIN             ^   18^Black       ^S+N^0
+W  TREBNI          N49 38.9991 E014 21.6705 Fri Dec 22 07:47:14 2000 TREBNICE            ^   18^Black       ^S+N^0
+W  TISUTA          N49 45.9990 E012 42.6944 Fri Dec 22 07:47:13 2000 TISOVA U TACHOVA    ^   18^Black       ^S+N^0
+W  MALONI          N49 17.4174 E013 22.6594 Fri Dec 22 07:43:36 2000 MALONICE            ^   18^Black       ^S+N^0
+W  SKAUTE          N50 34.3676 E016 08.3733 Fri Dec 22 07:47:02 2000 SKALY U TEPLIC NAD M^   18^Black       ^S+N^0
+W  VLASTV          N49 43.8013 E015 10.5296 Fri Dec 22 07:47:22 2000 VLASTEJOVICE        ^   18^Black       ^S+N^0
+W  KRTINY          N49 17.8397 E016 44.3964 Fri Dec 22 07:43:28 2000 KRTINY              ^   18^Black       ^S+N^0
+W  RADIC           N49 42.8216 E014 24.8952 Fri Dec 22 07:46:58 2000 RADIC               ^   18^Black       ^S+N^0
+W  OSEURO          N49 46.7200 E013 35.7902 Fri Dec 22 07:46:50 2000 OSEK U ROKYCAN      ^   18^Black       ^S+N^0
+W  RECICE          N49 08.3691 E015 21.9172 Fri Dec 22 07:46:59 2000 RECICE              ^   18^Black       ^S+N^0
+W  BRANTI          N50 03.6823 E017 37.4810 Fri Dec 22 07:42:52 2000 BRANTICE            ^   18^Black       ^S+N^0
+W  PLAUMA          N49 52.1956 E012 44.0974 Fri Dec 22 07:46:53 2000 PLANA U MARIANSKYCH ^   18^Black       ^S+N^0
+W  VELLOS          N50 01.4344 E017 01.8495 Fri Dec 22 07:47:18 2000 VELKE LOSINY        ^   18^Black       ^S+N^0
+W  VODUTA          N49 27.9282 E014 54.5828 Fri Dec 22 07:47:23 2000 VODICE U TABORA     ^   18^Black       ^S+N^0
+W  DOLCAS          N50 09.8763 E012 30.6187 Fri Dec 22 07:43:07 2000 DOLNI CASTKOV       ^   18^Black       ^S+N^0
+W  HERALE          N49 31.8537 E015 27.2235 Fri Dec 22 07:43:11 2000 HERALEC             ^   18^Black       ^S+N^0
+W  BLUDCE          N49 46.4329 E018 28.6096 Fri Dec 22 07:42:50 2000 BLUDOVICE           ^   18^Black       ^S+N^0
+W  MYSTEV          N50 18.7391 E015 33.6517 Fri Dec 22 07:46:43 2000 MYSTEVES            ^   18^Black       ^S+N^0
+W  OLOVNI          N50 14.1030 E014 14.3374 Fri Dec 22 07:46:49 2000 OLOVNICE            ^   18^Black       ^S+N^0
+W  CERHUB          N49 56.4558 E015 05.8387 Fri Dec 22 07:42:57 2000 CERVENY HRADEK U BEC^   18^Black       ^S+N^0
+W  MACICE          N49 13.6026 E013 40.6571 Fri Dec 22 07:43:36 2000 MACICE              ^   18^Black       ^S+N^0
+W  LOUCEN          N50 17.1517 E015 01.5377 Fri Dec 22 07:43:34 2000 LOUCEN              ^   18^Black       ^S+N^0
+W  KALEC           N50 01.2902 E013 19.7008 Fri Dec 22 07:43:21 2000 KALEC               ^   18^Black       ^S+N^0
+W  PETRKO          N49 34.1042 E015 33.4519 Fri Dec 22 07:46:52 2000 PETRKOV             ^   18^Black       ^S+N^0
+W  RACICE          N49 16.5458 E016 52.1575 Fri Dec 22 07:46:57 2000 RACICE              ^   18^Black       ^S+N^0
+W  HLUCHO          N49 32.5451 E016 59.8379 Fri Dec 22 07:43:12 2000 HLUCHOV             ^   18^Black       ^S+N^0
+W  LITOHO          N49 04.1025 E015 46.0464 Fri Dec 22 07:43:33 2000 LITOHOR             ^   18^Black       ^S+N^0
+W  FRYDEK          N49 41.1517 E018 20.7364 Fri Dec 22 07:43:10 2000 FRYDEK              ^   18^Black       ^S+N^0
+W  KRAVSL          N49 55.7065 E017 59.9861 Fri Dec 22 07:43:27 2000 KRAVARE VE SLEZSKU  ^   18^Black       ^S+N^0
+W  BOLATI          N49 57.1355 E018 04.9203 Fri Dec 22 07:42:51 2000 BOLATICE            ^   18^Black       ^S+N^0
+W  DUBUPR          N49 06.4276 E014 00.6768 Fri Dec 22 07:43:10 2000 DUB U PRACHATIC     ^   18^Black       ^S+N^0
+W  CHOCCE          N49 32.9300 E013 31.0376 Fri Dec 22 07:43:00 2000 CHOCENICE           ^   18^Black       ^S+N^0
+W  SANNJE          N48 49.7061 E016 21.4420 Fri Dec 22 07:47:01 2000 SANOV NAD JEVISOVKOU^   18^Black       ^S+N^0
+W  VRANY           N50 19.5464 E014 00.6611 Fri Dec 22 07:47:23 2000 VRANY               ^   18^Black       ^S+N^0
+W  VELHER          N49 58.5015 E017 44.2308 Fri Dec 22 07:47:18 2000 VELKE HERALTICE     ^   18^Black       ^S+N^0
+W  JINCE           N49 47.3586 E013 58.6945 Fri Dec 22 07:43:20 2000 JINCE               ^   18^Black       ^S+N^0
+W  LUKUPA          N49 33.9033 E014 58.8768 Fri Dec 22 07:43:35 2000 LUKAVEC U PACOVA    ^   18^Black       ^S+N^0
+W  SEDLCA          N49 39.4098 E014 27.0456 Fri Dec 22 07:47:02 2000 SEDLCANY            ^   18^Black       ^S+N^0
+W  CHOUDO          N49 56.5974 E014 36.4673 Fri Dec 22 07:43:01 2000 CHOMUTOVICE U DOBREJ^   18^Black       ^S+N^0
+W  MILINO          N49 14.1151 E013 23.9630 Fri Dec 22 07:46:40 2000 MILINOV             ^   18^Black       ^S+N^0
+W  CERNIK          N50 11.3131 E016 12.9338 Fri Dec 22 07:42:58 2000 CERNIKOVICE         ^   18^Black       ^S+N^0
+W  SMOLKO          N49 54.2709 E018 04.1845 Fri Dec 22 07:47:05 2000 SMOLKOV             ^   18^Black       ^S+N^0
+W  CHOUBL          N49 30.3937 E013 01.3938 Fri Dec 22 07:43:01 2000 CHOTIMER U BLIZEJOVA^   18^Black       ^S+N^0
+W  VSETIN          N49 20.5485 E017 59.8081 Fri Dec 22 07:47:24 2000 VSETIN              ^   18^Black       ^S+N^0
+W  DOBREN          N50 09.1244 E015 38.6519 Fri Dec 22 07:43:05 2000 DOBRENICE           ^   18^Black       ^S+N^0
+W  JAVORN          N50 23.3598 E017 00.0114 Fri Dec 22 07:43:18 2000 JAVORNIK-MESTO      ^   18^Black       ^S+N^0
+W  VESNUH          N49 20.9669 E013 12.3755 Fri Dec 22 07:47:20 2000 VESELI NAD UHLAVOU  ^   18^Black       ^S+N^0
+W  KOCIAN          N50 04.2114 E017 05.4061 Fri Dec 22 07:43:23 2000 KOCIANOV            ^   18^Black       ^S+N^0
+W  NECTIN          N49 57.5205 E013 09.5045 Fri Dec 22 07:46:44 2000 NECTINY             ^   18^Black       ^S+N^0
+W  JICIN           N50 26.1871 E015 21.1141 Fri Dec 22 07:43:19 2000 JICIN               ^   18^Black       ^S+N^0
+W  OPARAN          N49 23.6706 E014 28.8561 Fri Dec 22 07:46:49 2000 OPARANY             ^   18^Black       ^S+N^0
+W  LUKNJI          N49 22.2724 E015 42.0769 Fri Dec 22 07:43:35 2000 LUKA NAD JIHLAVOU   ^   18^Black       ^S+N^0
+W  HLUCIN          N49 53.7302 E018 11.0190 Fri Dec 22 07:43:12 2000 HLUCIN              ^   18^Black       ^S+N^0
+W  HORNSA          N49 43.9494 E015 08.1272 Fri Dec 22 07:43:14 2000 HORKA NAD SAZAVOU   ^   18^Black       ^S+N^0
+W  SILHER          N49 55.5726 E018 16.4714 Fri Dec 22 07:47:02 2000 SILHEROVICE         ^   18^Black       ^S+N^0
+W  CIRUKO          N49 54.7924 E015 00.8231 Fri Dec 22 07:43:03 2000 CIRKVICE U KOLINA   ^   18^Black       ^S+N^0
+W  TATENI          N49 52.0359 E016 41.8662 Fri Dec 22 07:47:12 2000 TATENICE            ^   18^Black       ^S+N^0
+W  CERLHO          N49 17.1045 E015 48.5042 Fri Dec 22 07:42:58 2000 CERVENA LHOTA       ^   18^Black       ^S+N^0
+W  VYSUPR          N49 38.1738 E013 56.4263 Fri Dec 22 07:47:25 2000 VYSOKA U PRIBRAME   ^   18^Black       ^S+N^0
+W  BARCHO          N50 12.1872 E015 34.3879 Fri Dec 22 07:42:48 2000 BARCHOV             ^   18^Black       ^S+N^0
+W  KRETIN          N49 33.7797 E016 30.0692 Fri Dec 22 07:43:27 2000 KRETIN              ^   18^Black       ^S+N^0
+W  LIBOUN          N49 38.1378 E014 49.1410 Fri Dec 22 07:43:32 2000 LIBOUN              ^   18^Black       ^S+N^0
+W  SKAUZN          N48 57.9613 E016 13.3345 Fri Dec 22 07:47:03 2000 SKALICE U ZNOJMA    ^   18^Black       ^S+N^0
+W  UHOLIC          N50 09.6780 E014 19.9723 Fri Dec 22 07:47:16 2000 UHOLICKY            ^   18^Black       ^S+N^0
+W  VEZKY           N49 17.1097 E017 16.9035 Fri Dec 22 07:47:21 2000 VEZKY               ^   18^Black       ^S+N^0
+W  ZAHUCE          N50 38.1244 E014 31.5250 Fri Dec 22 07:47:25 2000 ZAHRADKY U CESKE LIP^   18^Black       ^S+N^0
+W  KOZEL           N49 40.2582 E013 31.7270 Fri Dec 22 07:43:26 2000 STAHLAVY - ZAMEK KOZ^   18^Black       ^S+N^0
+W  VELBYS          N49 35.6144 E017 21.4025 Fri Dec 22 07:47:18 2000 VELKA BYSTRICE      ^   18^Black       ^S+N^0
+W  HRAUSU          N49 15.6381 E013 29.7723 Fri Dec 22 07:43:16 2000 HRADEK U SUSICE     ^   18^Black       ^S+N^0
+W  LOJOVI          N49 53.8242 E014 38.8635 Fri Dec 22 07:43:34 2000 LOJOVICE            ^   18^Black       ^S+N^0
+W  SUMPER          N49 57.7509 E016 58.3055 Fri Dec 22 07:47:11 2000 SUMPERK             ^   18^Black       ^S+N^0
+W  VESNMO          N48 57.2094 E017 22.5690 Fri Dec 22 07:47:20 2000 VESELI NAD MORAVOU  ^   18^Black       ^S+N^0
+W  DOBROM          N49 21.5862 E017 08.0889 Fri Dec 22 07:43:06 2000 DOBROMILICE         ^   18^Black       ^S+N^0
+W  LAZUDO          N49 21.7613 E013 52.7998 Fri Dec 22 07:43:30 2000 LAZANY U DOUBRAVICE ^   18^Black       ^S+N^0
+W  TRHANO          N49 25.3172 E012 50.7861 Fri Dec 22 07:47:14 2000 TRHANOV             ^   18^Black       ^S+N^0
+W  SVOJSI          N49 45.9681 E012 54.8168 Fri Dec 22 07:47:11 2000 SVOJSIN             ^   18^Black       ^S+N^0
+W  HORIN           N50 20.8068 E014 27.7425 Fri Dec 22 07:43:13 2000 HORIN               ^   18^Black       ^S+N^0
+W  USOV            N49 47.9508 E017 00.8318 Fri Dec 22 07:47:17 2000 USOV-MESTO          ^   18^Black       ^S+N^0
+W  SKLENO          N49 37.3138 E018 13.2225 Fri Dec 22 07:47:03 2000 SKLENOV             ^   18^Black       ^S+N^0
+W  JETRIC          N49 33.0626 E014 31.7265 Fri Dec 22 07:43:19 2000 JETRICHOVICE        ^   18^Black       ^S+N^0
+W  LANY            N50 07.4442 E013 57.2651 Fri Dec 22 07:43:29 2000 LANY                ^   18^Black       ^S+N^0
+W  PLUMLO          N49 27.8690 E017 00.8575 Fri Dec 22 07:46:53 2000 PLUMLOV             ^   18^Black       ^S+N^0
+W  STRILK          N49 08.5635 E017 12.5190 Fri Dec 22 07:47:09 2000 STRILKY             ^   18^Black       ^S+N^0
+W  CERHEN          N50 04.2385 E015 04.1869 Fri Dec 22 07:42:57 2000 CERHENICE           ^   18^Black       ^S+N^0
+W  SMILKO          N49 36.0907 E014 37.1799 Fri Dec 22 07:47:05 2000 SMILKOV             ^   18^Black       ^S+N^0
+W  UDLICE          N50 26.3995 E013 27.4845 Fri Dec 22 07:47:16 2000 UDLICE              ^   18^Black       ^S+N^0
+W  PETIPS          N50 19.1846 E013 21.1206 Fri Dec 22 07:46:52 2000 PETIPSY             ^   18^Black       ^S+N^0
+W  BECHYN          N49 17.4316 E014 28.1322 Fri Dec 22 07:42:48 2000 BECHYNE             ^   18^Black       ^S+N^0
+W  STEDRA          N50 03.4068 E013 06.7847 Fri Dec 22 07:47:08 2000 STEDRA              ^   18^Black       ^S+N^0
+W  ZACLER          N50 38.9767 E015 54.2096 Fri Dec 22 07:47:25 2000 ZACLER              ^   18^Black       ^S+N^0
+W  LESUTA          N49 45.1454 E012 32.0246 Fri Dec 22 07:43:31 2000 LESNA U TACHOVA     ^   18^Black       ^S+N^0
+W  CASUTA          N49 45.4712 E012 40.3869 Fri Dec 22 07:42:56 2000 CASTKOV U TACHOVA   ^   18^Black       ^S+N^0
+W  CHOMUT          N50 27.5981 E013 24.8352 Fri Dec 22 07:43:00 2000 CHOMUTOV            ^   18^Black       ^S+N^0
+W  NAVOJN          N49 06.4457 E018 03.1861 Fri Dec 22 07:46:44 2000 NAVOJNA             ^   18^Black       ^S+N^0
+W  NOVHU           N49 51.1604 E016 08.7901 Fri Dec 22 07:46:46 2000 NOVE HRADY U SKUTCE ^   18^Black       ^S+N^0
+W  SOKOLN          N49 07.0675 E016 43.5003 Fri Dec 22 07:47:05 2000 SOKOLNICE           ^   18^Black       ^S+N^0
+W  DOLPRI          N50 14.3360 E015 42.3427 Fri Dec 22 07:43:07 2000 DOLNI PRIM          ^   18^Black       ^S+N^0
+W  KARVIN          N49 51.2325 E018 32.6007 Fri Dec 22 07:43:22 2000 KARVINA-MESTO       ^   18^Black       ^S+N^0
+W  KOREN           N49 51.1141 E012 50.4137 Fri Dec 22 07:43:24 2000 KOREN               ^   18^Black       ^S+N^0
+W  UMONIN          N49 53.3594 E015 16.3238 Fri Dec 22 07:47:17 2000 UMONIN              ^   18^Black       ^S+N^0
+W  RADUN           N49 53.4508 E017 56.6564 Fri Dec 22 07:46:58 2000 RADUN               ^   18^Black       ^S+N^0
+W  BORANO          N50 10.9139 E014 28.8117 Fri Dec 22 07:42:51 2000 BORANOVICE          ^   18^Black       ^S+N^0
+W  SEMIN           N50 03.3115 E015 31.2864 Fri Dec 22 07:47:02 2000 SEMIN               ^   18^Black       ^S+N^0
+W  MESUPR          N50 11.7534 E014 31.3557 Fri Dec 22 07:43:37 2000 MESICE U PRAHY      ^   18^Black       ^S+N^0
+W  JESUBR          N49 15.8930 E015 37.8102 Fri Dec 22 07:43:19 2000 JESTREBI U BRTNICE  ^   18^Black       ^S+N^0
+W  RAKOVI          N49 28.1561 E014 03.4075 Fri Dec 22 07:46:59 2000 RAKOVICE            ^   18^Black       ^S+N^0
+W  KOUNSU          N49 24.4431 E013 00.1591 Fri Dec 22 07:43:26 2000 KOUT NA SUMAVE      ^   18^Black       ^S+N^0
+W  STAHRA          N50 23.2324 E015 12.8116 Fri Dec 22 07:47:06 2000 STARE HRADY         ^   18^Black       ^S+N^0
+W  MOSTOV          N50 06.8327 E012 29.3466 Fri Dec 22 07:46:42 2000 MOSTOV              ^   18^Black       ^S+N^0
+W  DOBRIS          N49 46.8964 E014 10.8478 Fri Dec 22 07:43:05 2000 DOBRIS              ^   18^Black       ^S+N^0
+W  LIBNDO          N49 44.7103 E015 42.1210 Fri Dec 22 07:43:32 2000 LIBICE NAD DOUBRAVOU^   18^Black       ^S+N^0
+W  CRVLHO          N49 14.7987 E014 53.1486 Fri Dec 22 07:43:03 2000 CERVENA LHOTA       ^   18^Black       ^S+N^0
+W  JARNRO          N49 05.4543 E015 53.3351 Fri Dec 22 07:43:17 2000 JAROMERICE NAD ROKYT^   18^Black       ^S+N^0
+W  RADUML          N49 30.6512 E014 49.8639 Fri Dec 22 07:46:58 2000 RADVANOV U MLADE VOZ^   18^Black       ^S+N^0
+W  RATMER          N49 38.6193 E014 45.5171 Fri Dec 22 07:46:59 2000 RATMERICE           ^   18^Black       ^S+N^0
+W  DOBRIC          N49 55.5597 E014 16.4836 Fri Dec 22 07:43:05 2000 DOBRICHOVICE        ^   18^Black       ^S+N^0
+W  KUKS            N50 23.8452 E015 53.2730 Fri Dec 22 07:43:28 2000 KUKS                ^   18^Black       ^S+N^0
+W  CVRUPO          N48 59.6260 E016 30.8105 Fri Dec 22 07:43:03 2000 CVRCOVICE U POHORELI^   18^Black       ^S+N^0
+W  OHNIST          N50 18.8267 E015 31.4151 Fri Dec 22 07:46:48 2000 OHNISTANY           ^   18^Black       ^S+N^0
+W  PACOV           N49 28.5423 E015 00.2772 Fri Dec 22 07:46:51 2000 PACOV               ^   18^Black       ^S+N^0
+W  BEHARO          N49 20.5562 E013 09.6541 Fri Dec 22 07:42:48 2000 BEHAROV             ^   18^Black       ^S+N^0
+W  PETUSU          N49 13.3503 E013 26.4384 Fri Dec 22 07:46:52 2000 PETROVICE U SUSICE  ^   18^Black       ^S+N^0
+W  VELTRU          N50 16.6702 E014 19.7576 Fri Dec 22 07:47:19 2000 VELTRUSY            ^   18^Black       ^S+N^0
+W  SEBETO          N49 32.8116 E016 42.9136 Fri Dec 22 07:47:01 2000 SEBETOV             ^   18^Black       ^S+N^0
+W  MALUCH          N49 46.2874 E015 40.6826 Fri Dec 22 07:43:36 2000 MALEC U CHOTEBORE   ^   18^Black       ^S+N^0
+W  HOJESI          N49 48.7349 E015 38.5406 Fri Dec 22 07:43:12 2000 HOJESIN             ^   18^Black       ^S+N^0
+W  STVOLI          N50 37.9030 E014 25.5593 Fri Dec 22 07:47:10 2000 STVOLINKY           ^   18^Black       ^S+N^0
+W  NESOVI          N49 09.1055 E017 05.5944 Fri Dec 22 07:46:45 2000 NESOVICE            ^   18^Black       ^S+N^0
+W  POTSTE          N50 04.9852 E016 18.5159 Fri Dec 22 07:46:55 2000 POTSTEJN            ^   18^Black       ^S+N^0
+W  CKYNE           N49 06.9774 E013 49.8931 Fri Dec 22 07:43:03 2000 CKYNE               ^   18^Black       ^S+N^0
+W  UJENMZ          N49 47.3161 E013 11.8032 Fri Dec 22 07:47:17 2000 UJEZD NAD MZI       ^   18^Black       ^S+N^0
+W  OSTUBO          N49 46.1484 E015 11.6915 Fri Dec 22 07:46:50 2000 OSTROV U BOHDANCE   ^   18^Black       ^S+N^0
+W  PATULO          N50 22.9401 E013 56.3584 Fri Dec 22 07:46:51 2000 PATEK U LOUN        ^   18^Black       ^S+N^0
+W  NSVETL          N49 02.0734 E017 48.0420 Fri Dec 22 07:46:48 2000 BOJKOVICE - NOVY SVE^   18^Black       ^S+N^0
+W  CESTIN          N49 48.9486 E015 07.0770 Fri Dec 22 07:43:00 2000 CESTIN              ^   18^Black       ^S+N^0
+W  SOSNOV          N49 59.9564 E017 39.7218 Fri Dec 22 07:47:06 2000 SOSNOVA             ^   18^Black       ^S+N^0
+W  STRNNE          N49 04.1308 E014 54.6565 Fri Dec 22 07:47:09 2000 STRAZ NAD NEZARKOU  ^   18^Black       ^S+N^0
+W  ZALSI           N49 13.1559 E014 36.0772 Fri Dec 22 07:47:26 2000 ZALSI               ^   18^Black       ^S+N^0
+W  HROTYN          N49 57.4690 E015 54.5305 Fri Dec 22 07:43:16 2000 HROCHUV TYNEC       ^   18^Black       ^S+N^0
+W  PRIVOZ          N49 29.9843 E013 00.5392 Fri Dec 22 07:46:56 2000 PRIVOZEC            ^   18^Black       ^S+N^0
+W  KOPIDL          N50 19.8232 E015 16.3248 Fri Dec 22 07:43:24 2000 KOPIDLNO            ^   18^Black       ^S+N^0
+W  DESENI          N49 16.4248 E013 10.4614 Fri Dec 22 07:43:04 2000 DESENICE            ^   18^Black       ^S+N^0
+W  TUPUCA          N49 52.0732 E015 24.1187 Fri Dec 22 07:47:15 2000 TUPADLY U CASLAVI   ^   18^Black       ^S+N^0
+W  BREZNI          N49 33.4424 E013 57.4804 Fri Dec 22 07:42:53 2000 BREZNICE            ^   18^Black       ^S+N^0
+W  LEDNMJ          N48 48.0607 E016 49.7571 Fri Dec 22 07:43:30 2000 LEDNICE NA MORAVE - ^   18^Black       ^S+N^0
+W  KLIMKO          N49 47.1848 E018 07.7572 Fri Dec 22 07:43:22 2000 KLIMKOVICE          ^   18^Black       ^S+N^0
+W  LIBERE          N50 46.0552 E015 03.7476 Fri Dec 22 07:43:32 2000 LIBEREC             ^   18^Black       ^S+N^0
+W  HRANEC          N50 13.4232 E015 40.0163 Fri Dec 22 07:43:15 2000 HRADEK U NECHANIC   ^   18^Black       ^S+N^0
+W  PRAUJE          N49 54.8773 E013 39.6140 Fri Dec 22 07:46:55 2000 PRASNY UJEZD        ^   18^Black       ^S+N^0
+W  TOCHOV          N49 35.6980 E013 59.3089 Fri Dec 22 07:47:13 2000 TOCHOVICE           ^   18^Black       ^S+N^0
+W  USOBI           N49 31.0490 E015 30.1450 Fri Dec 22 07:47:17 2000 USOBI               ^   18^Black       ^S+N^0
+W  ZIHLE           N50 02.6961 E013 22.7106 Fri Dec 22 07:47:28 2000 ZIHLE               ^   18^Black       ^S+N^0
+W  BILOVE          N49 45.3102 E018 00.9668 Fri Dec 22 07:42:49 2000 BILOVEC-MESTO       ^   18^Black       ^S+N^0
+W  KOUNIC          N50 06.5572 E014 51.3770 Fri Dec 22 07:43:25 2000 KOUNICE             ^   18^Black       ^S+N^0
+W  CESKAM          N50 47.8370 E014 24.9043 Fri Dec 22 07:42:59 2000 CESKA KAMENICE      ^   18^Black       ^S+N^0
+W  MITROV          N49 26.4914 E016 13.1092 Fri Dec 22 07:46:41 2000 MITROV              ^   18^Black       ^S+N^0
+W  PACLAV          N49 15.4579 E017 10.1421 Fri Dec 22 07:46:51 2000 PACLAVICE           ^   18^Black       ^S+N^0
+W  JISTEB          N49 28.7599 E014 32.0175 Fri Dec 22 07:43:20 2000 JISTEBNICE          ^   18^Black       ^S+N^0
+W  SVETEC          N50 34.6792 E013 48.8493 Fri Dec 22 07:47:11 2000 SVETEC              ^   18^Black       ^S+N^0
+W  DOBREJ          N49 58.9830 E014 34.9207 Fri Dec 22 07:43:05 2000 DOBREJOVICE         ^   18^Black       ^S+N^0
+W  SNEDOV          N50 30.1872 E014 23.4179 Fri Dec 22 07:47:05 2000 SNEDOVICE           ^   18^Black       ^S+N^0
+W  HOSPOZ          N50 18.3259 E014 10.2935 Fri Dec 22 07:43:14 2000 HOSPOZIN            ^   18^Black       ^S+N^0
+W  KRANMO          N49 35.8384 E016 59.2949 Fri Dec 22 07:43:26 2000 KRAKOVEC NA MORAVE  ^   18^Black       ^S+N^0
+W  VELVES          N50 16.1900 E013 22.3186 Fri Dec 22 07:47:19 2000 VELIKA VES          ^   18^Black       ^S+N^0
+W  NOVDUO          N49 56.0592 E017 46.3422 Fri Dec 22 07:46:46 2000 NOVY DVUR U OPAVY   ^   18^Black       ^S+N^0
+W  JAMUJI          N49 25.8245 E015 43.3219 Fri Dec 22 07:43:17 2000 JAMNE U JIHLAVY     ^   18^Black       ^S+N^0
+W  TREUDI          N49 46.6209 E014 49.6222 Fri Dec 22 07:47:14 2000 TREBESICE U DIVISOVA^   18^Black       ^S+N^0
+W  VOJUVO          N49 39.1407 E014 31.0248 Fri Dec 22 07:47:23 2000 VOJKOV U VOTIC      ^   18^Black       ^S+N^0
+W  HNOJNI          N49 40.9908 E018 32.6515 Fri Dec 22 07:43:12 2000 HNOJNIK             ^   18^Black       ^S+N^0
+W  LANZHO          N48 43.5894 E016 58.3908 Fri Dec 22 07:43:30 2000 LANZHOT             ^   18^Black       ^S+N^0
+W  LEMBK           N50 46.6332 E014 47.2671 Fri Dec 22 07:43:30 2000 LVOVA               ^   18^Black       ^S+N^0
+W  STRNMO          N48 54.5624 E017 18.7182 Fri Dec 22 07:47:09 2000 STRAZNICE NA MORAVE ^   18^Black       ^S+N^0
+W  MIROSL          N48 56.9300 E016 19.0399 Fri Dec 22 07:46:40 2000 MIROSLAV            ^   18^Black       ^S+N^0
+W  LIBLIN          N49 55.0138 E013 32.7814 Fri Dec 22 07:43:32 2000 LIBLIN              ^   18^Black       ^S+N^0
+W  MIROSV          N49 41.3075 E013 39.6719 Fri Dec 22 07:46:41 2000 MIROSOV             ^   18^Black       ^S+N^0
+W  STA SM          N49 31.5009 E013 44.8971 Fri Dec 22 07:47:06 2000 STARY  SMOLIVEC     ^   18^Black       ^S+N^0
+W  VYSUSL          N49 48.5250 E017 59.2461 Fri Dec 22 07:47:25 2000 VYSKOVICE U SLATINY ^   18^Black       ^S+N^0
+W  DOLADR          N50 37.2103 E016 06.8817 Fri Dec 22 07:43:06 2000 DOLNI ADRSPACH      ^   18^Black       ^S+N^0
+W  DOMSNI          N50 23.5607 E015 06.6177 Fri Dec 22 07:43:08 2000 DOMOUSNICE          ^   18^Black       ^S+N^0
+W  CETECH          N49 10.5308 E017 15.5999 Fri Dec 22 07:43:00 2000 CETECHOVICE         ^   18^Black       ^S+N^0
+W  CHUDOB          N49 41.2290 E017 01.8833 Fri Dec 22 07:43:02 2000 CHUDOBIN            ^   18^Black       ^S+N^0
+W  TRITIM          N49 11.6161 E014 26.7753 Fri Dec 22 07:47:14 2000 TRITIM              ^   18^Black       ^S+N^0
+W  MESETI          N49 35.0878 E014 30.2044 Fri Dec 22 07:43:37 2000 MESETICE            ^   18^Black       ^S+N^0
+W  LESONI          N49 06.5281 E015 45.3132 Fri Dec 22 07:43:31 2000 LESONICE            ^   18^Black       ^S+N^0
+W  MORICE          N49 19.7567 E017 12.0150 Fri Dec 22 07:46:42 2000 MORICE              ^   18^Black       ^S+N^0
+W  STARKO          N50 32.0128 E016 09.6411 Fri Dec 22 07:47:07 2000 STARKOV             ^   18^Black       ^S+N^0
+W  KONICE          N49 35.3955 E016 53.4759 Fri Dec 22 07:43:24 2000 KONICE              ^   18^Black       ^S+N^0
+W  VINUDO          N50 22.6234 E014 57.2971 Fri Dec 22 07:47:21 2000 VINARICE U DOBROVICE^   18^Black       ^S+N^0
+W  TECHOB          N49 30.7619 E014 55.4103 Fri Dec 22 07:47:12 2000 TECHOBUZ            ^   18^Black       ^S+N^0
+W  LUHACO          N49 05.7517 E017 44.8127 Fri Dec 22 07:43:35 2000 LUHACOVICE          ^   18^Black       ^S+N^0
+W  NOVMNE          N49 33.6510 E016 04.5727 Fri Dec 22 07:46:47 2000 NOVE MESTO NA MORAVE^   18^Black       ^S+N^0
+W  MESRUD          N50 12.2902 E017 41.4370 Fri Dec 22 07:43:37 2000 MESTYS RUDOLTICE    ^   18^Black       ^S+N^0
+W  PAVSTU          N49 45.2986 E012 28.3579 Fri Dec 22 07:46:51 2000 PAVLUV STUDENECI    ^   18^Black       ^S+N^0
+W  CITOLI          N50 19.6906 E013 48.6153 Fri Dec 22 07:43:03 2000 CITOLIBY            ^   18^Black       ^S+N^0
+W  BEDUJA          N50 48.8374 E015 09.4929 Fri Dec 22 07:42:48 2000 BEDRICHOV U JABLONCE^   18^Black       ^S+N^0
+W  SOKOLO          N50 10.3977 E012 37.9388 Fri Dec 22 07:47:06 2000 SOKOLOV             ^   18^Black       ^S+N^0
+W  KVAUKV          N49 34.6230 E015 30.4035 Fri Dec 22 07:43:29 2000 KVASETICE U KVETINOV^   18^Black       ^S+N^0
+W  ROZUPR          N50 09.5956 E014 23.8769 Fri Dec 22 07:47:00 2000 ROZTOKY U PRAHY     ^   18^Black       ^S+N^0
+W  VESUMI          N49 23.3539 E014 21.2138 Fri Dec 22 07:47:20 2000 VESELICKO U MILEVSKA^   18^Black       ^S+N^0
+W  BYSPHO          N49 24.0851 E017 40.4321 Fri Dec 22 07:42:56 2000 BYSTRICE POD HOSTYNE^   18^Black       ^S+N^0
+W  MLAVOZ          N49 32.1395 E014 48.5948 Fri Dec 22 07:46:41 2000 MLADA VOZICE        ^   18^Black       ^S+N^0
+W  FULNEK          N49 42.7134 E017 54.3551 Fri Dec 22 07:43:10 2000 FULNEK              ^   18^Black       ^S+N^0
+W  KRNPRE          N50 05.3341 E017 42.0727 Fri Dec 22 07:43:28 2000 KRNOV-HORNI PREDMEST^   18^Black       ^S+N^0
+W  VARVAZ          N49 26.2764 E014 08.4840 Fri Dec 22 07:47:18 2000 VARVAZOV            ^   18^Black       ^S+N^0
+W  CHOCER          N49 52.0887 E014 47.8252 Fri Dec 22 07:43:00 2000 CHOCERADY           ^   18^Black       ^S+N^0
+W  KRATON          N50 10.1595 E015 36.7056 Fri Dec 22 07:43:27 2000 KRATONOHY           ^   18^Black       ^S+N^0
+W  NEVEKL          N49 45.6578 E014 31.5430 Fri Dec 22 07:46:45 2000 NEVEKLOV            ^   18^Black       ^S+N^0
+W  STIRIN          N49 54.9546 E014 35.8226 Fri Dec 22 07:47:08 2000 STIRIN              ^   18^Black       ^S+N^0
+W  NOVHVE          N49 11.6418 E017 04.7901 Fri Dec 22 07:46:46 2000 NOVE HVEZDLICE      ^   18^Black       ^S+N^0
+W  PROUPO          N49 26.6665 E015 02.7395 Fri Dec 22 07:46:56 2000 PROSEC U POSNE      ^   18^Black       ^S+N^0
+W  MOKROS          N49 16.5458 E013 27.4101 Fri Dec 22 07:46:41 2000 MOKROSUKY           ^   18^Black       ^S+N^0
+W  BEZULI          N49 44.1142 E015 44.4651 Fri Dec 22 07:42:49 2000 BEZDEKOV U LIBICE N ^   18^Black       ^S+N^0
+W  CITOV           N50 22.4226 E014 23.6953 Fri Dec 22 07:43:03 2000 CITOV               ^   18^Black       ^S+N^0
+W  POLE            N49 24.8692 E013 46.7311 Fri Dec 22 07:46:54 2000 POLE                ^   18^Black       ^S+N^0
+W  VOJNIC          N49 13.6168 E013 42.5442 Fri Dec 22 07:47:23 2000 VOJNICE             ^   18^Black       ^S+N^0
+W  CHLUMI          N50 17.4002 E014 27.2188 Fri Dec 22 07:43:00 2000 CHLUMIN             ^   18^Black       ^S+N^0
+W  SMOLOT          N49 37.2662 E014 08.1264 Fri Dec 22 07:47:05 2000 SMOLOTELY           ^   18^Black       ^S+N^0
+W  JEVISO          N48 59.4419 E015 59.2918 Fri Dec 22 07:43:19 2000 JEVISOVICE          ^   18^Black       ^S+N^0
+W  LOBKOV          N50 15.1149 E014 32.5273 Fri Dec 22 07:43:34 2000 LOBKOVICE           ^   18^Black       ^S+N^0
+W  BROCNO          N50 28.5058 E014 26.3971 Fri Dec 22 07:42:54 2000 BROCNO              ^   18^Black       ^S+N^0
+W  PODEBR          N50 08.4922 E015 07.1767 Fri Dec 22 07:46:53 2000 PODEBRADY           ^   18^Black       ^S+N^0
+W  NEPOMY          N50 13.1155 E013 18.7504 Fri Dec 22 07:46:45 2000 NEPOMYSL            ^   18^Black       ^S+N^0
+W  SMIDAR          N50 17.5212 E015 28.8238 Fri Dec 22 07:47:04 2000 SMIDARY             ^   18^Black       ^S+N^0
+W  BRLUDR          N49 19.6975 E014 00.9842 Fri Dec 22 07:42:53 2000 BRLOH U DRHOVLE     ^   18^Black       ^S+N^0
+W  SLONCI          N50 15.3814 E015 30.0076 Fri Dec 22 07:47:04 2000 SLOUPNO NAD CIDLINOU^   18^Black       ^S+N^0
+W  CHOCEN          N49 59.8727 E016 13.5530 Fri Dec 22 07:43:00 2000 CHOCEN              ^   18^Black       ^S+N^0
+W  SKYTAL          N50 11.6259 E013 20.3491 Fri Dec 22 07:47:03 2000 SKYTALY             ^   18^Black       ^S+N^0
+W  OTIUTO          N49 26.8983 E013 20.1463 Fri Dec 22 07:46:51 2000 OTIN U TOCNIKU      ^   18^Black       ^S+N^0
+W  MIROSE          N50 30.2336 E013 46.8585 Fri Dec 22 07:46:40 2000 MIROSOVICE          ^   18^Black       ^S+N^0
+W  RADUSY          N50 37.5644 E015 05.3473 Fri Dec 22 07:46:58 2000 RADOSTIN U SYCHROVA ^   18^Black       ^S+N^0
+W  ZANDOV          N49 51.4887 E015 07.6367 Fri Dec 22 07:47:27 2000 ZANDOV              ^   18^Black       ^S+N^0
+W  VELHOS          N49 55.9665 E017 58.2799 Fri Dec 22 07:47:18 2000 VELKE HOSTICE       ^   18^Black       ^S+N^0
+W  MOSTKY          N48 43.3409 E014 30.9202 Fri Dec 22 07:46:42 2000 MOSTKY              ^   18^Black       ^S+N^0
+W  CECHTI          N49 37.5301 E015 02.9671 Fri Dec 22 07:42:56 2000 CECHTICE            ^   18^Black       ^S+N^0
+W  BUKUPR          N49 45.3398 E014 03.9389 Fri Dec 22 07:42:55 2000 BUKOVA U PRIBRAME   ^   18^Black       ^S+N^0
+W  BORUBO          N49 34.8239 E016 40.2228 Fri Dec 22 07:42:51 2000 BOROTIN U BOSKOVIC  ^   18^Black       ^S+N^0
+W  CESLIP          N50 41.0804 E014 32.4472 Fri Dec 22 07:42:59 2000 CESKA LIPA          ^   18^Black       ^S+N^0
+W  NELAHO          N50 15.6132 E014 18.0579 Fri Dec 22 07:46:44 2000 NELAHOZEVES         ^   18^Black       ^S+N^0
+W  STAKES          N49 16.2188 E014 04.5083 Fri Dec 22 07:47:07 2000 STARE KESTRANY      ^   18^Black       ^S+N^0
+W  STREZI          N49 31.9142 E014 36.5065 Fri Dec 22 07:47:09 2000 STREZIMIR           ^   18^Black       ^S+N^0
+W  LISUOS          N50 20.1257 E015 33.6550 Fri Dec 22 07:43:33 2000 LISKOVICE U OSTROMER^   18^Black       ^S+N^0
+W  PRCICE          N49 34.6282 E014 32.1520 Fri Dec 22 07:46:55 2000 PRCICE              ^   18^Black       ^S+N^0
+W  DESTNE          N49 53.6749 E017 40.5300 Fri Dec 22 07:43:04 2000 DESTNE              ^   18^Black       ^S+N^0
+W  BYSICE          N50 18.5640 E014 36.7643 Fri Dec 22 07:42:55 2000 BYSICE              ^   18^Black       ^S+N^0
+W  HABROV          N49 13.7906 E016 52.5705 Fri Dec 22 07:43:11 2000 HABROVANY           ^   18^Black       ^S+N^0
+W  BREZOL          N49 07.2606 E017 35.0782 Fri Dec 22 07:42:53 2000 BREZOLUPY           ^   18^Black       ^S+N^0
+W  HERMES          N49 56.6656 E015 40.2406 Fri Dec 22 07:43:11 2000 HERMANUV MESTEC     ^   18^Black       ^S+N^0
+W  UNHOST          N50 05.0277 E014 07.8747 Fri Dec 22 07:47:17 2000 UNHOST              ^   18^Black       ^S+N^0
+W  NEBILO          N49 37.7902 E013 25.9070 Fri Dec 22 07:46:44 2000 NEBILOVY            ^   18^Black       ^S+N^0
+W  PODUJI          N50 25.7030 E015 19.1517 Fri Dec 22 07:46:54 2000 PODHRADI U JICINA   ^   18^Black       ^S+N^0
+W  STRUBO          N49 47.2697 E014 46.6031 Fri Dec 22 07:47:09 2000 STRIZKOV U BORENOVIC^   18^Black       ^S+N^0
+W  OSLAVA          N49 07.6172 E016 20.0843 Fri Dec 22 07:46:50 2000 OSLAVANY            ^   18^Black       ^S+N^0
+W  CIZKCE          N50 29.1096 E014 01.5565 Fri Dec 22 07:43:03 2000 CIZKOVICE           ^   18^Black       ^S+N^0
+W  SVIJAN          N50 34.4667 E015 03.3591 Fri Dec 22 07:47:11 2000 SVIJANY             ^   18^Black       ^S+N^0
+W  CHOPLA          N49 53.4573 E012 43.5190 Fri Dec 22 07:43:01 2000 CHODOVA PLANA       ^   18^Black       ^S+N^0
+W  HANOVI          N49 40.8852 E017 02.6722 Fri Dec 22 07:43:11 2000 HANOVICE            ^   18^Black       ^S+N^0
+W  LYSNLA          N50 12.2284 E014 50.0641 Fri Dec 22 07:43:35 2000 LYSA NAD LABEM      ^   18^Black       ^S+N^0
+W  LZIN            N49 13.7365 E014 47.4947 Fri Dec 22 07:43:36 2000 LZIN                ^   18^Black       ^S+N^0
+W  SKVORE          N49 24.1624 E013 56.8238 Fri Dec 22 07:47:03 2000 SKVORETICE          ^   18^Black       ^S+N^0
+W  DOUUKA          N50 12.6507 E012 49.4532 Fri Dec 22 07:43:08 2000 DOUBI U KARLOVYCH VA^   18^Black       ^S+N^0
+W  DALECI          N49 35.5242 E016 14.3587 Fri Dec 22 07:43:04 2000 DALECIN             ^   18^Black       ^S+N^0
+W  HORLUB          N50 15.7638 E012 23.5511 Fri Dec 22 07:43:13 2000 HORNI LUBY          ^   18^Black       ^S+N^0
+W  DETENI          N50 22.1110 E015 10.4208 Fri Dec 22 07:43:04 2000 DETENICE            ^   18^Black       ^S+N^0
+W  HOSTLV          N49 21.2926 E017 51.9073 Fri Dec 22 07:43:15 2000 HOSTALKOVA          ^   18^Black       ^S+N^0
+W  HRABES          N49 51.1798 E015 19.9065 Fri Dec 22 07:43:15 2000 HRABESIN            ^   18^Black       ^S+N^0
+W  BLAUCH          N50 30.7022 E013 21.7360 Fri Dec 22 07:42:50 2000 BLATNO U CHOMUTOVA  ^   18^Black       ^S+N^0
+W  BROUPR          N49 22.2273 E017 04.9504 Fri Dec 22 07:42:54 2000 BRODEK U PROSTEJOVA ^   18^Black       ^S+N^0
+W  KYJOV           N49 00.5401 E017 07.8868 Fri Dec 22 07:43:29 2000 KYJOV               ^   18^Black       ^S+N^0
+W  ROZDAL          N50 18.5254 E015 10.3284 Fri Dec 22 07:47:00 2000 ROZDALOVICE         ^   18^Black       ^S+N^0
+W  HORINE          N50 18.5962 E015 45.8569 Fri Dec 22 07:43:13 2000 HORINEVES           ^   18^Black       ^S+N^0
+W  VRCHLA          N50 37.6493 E015 36.5176 Fri Dec 22 07:47:24 2000 VRCHLABI            ^   18^Black       ^S+N^0
+W  ZAKUPY          N50 41.2259 E014 38.6202 Fri Dec 22 07:47:26 2000 ZAKUPY              ^   18^Black       ^S+N^0
+W  MORAVE          N49 26.4438 E016 08.5455 Fri Dec 22 07:46:42 2000 MORAVEC             ^   18^Black       ^S+N^0
+W  JINOSO          N49 13.6490 E016 11.5346 Fri Dec 22 07:43:20 2000 JINOSOV             ^   18^Black       ^S+N^0
+W  TAVIKO          N49 01.9357 E016 06.4736 Fri Dec 22 07:47:12 2000 TAVIKOVICE          ^   18^Black       ^S+N^0
+W  HOSULI          N49 12.4195 E017 14.1850 Fri Dec 22 07:43:15 2000 HOSTICE U LITENCIC  ^   18^Black       ^S+N^0
+W  PRAVON          N49 38.1816 E014 56.6083 Fri Dec 22 07:46:55 2000 PRAVONIN            ^   18^Black       ^S+N^0
+W  KUNIN           N49 38.6528 E017 59.4064 Fri Dec 22 07:43:28 2000 KUNIN               ^   18^Black       ^S+N^0
+W  VYSVES          N50 19.9455 E015 26.1533 Fri Dec 22 07:47:25 2000 VYSOKE VESELI       ^   18^Black       ^S+N^0
+W  CESBEL          N49 38.5446 E015 41.8873 Fri Dec 22 07:42:59 2000 CESKA BELA          ^   18^Black       ^S+N^0
+W  STRPRA          N50 42.3293 E014 48.0010 Fri Dec 22 07:47:09 2000 STRAZ POD RALSKEM   ^   18^Black       ^S+N^0
+W  BLATNA          N49 25.3842 E013 52.8446 Fri Dec 22 07:42:50 2000 BLATNA              ^   18^Black       ^S+N^0
+W  JILUDE          N50 45.5775 E014 06.0288 Fri Dec 22 07:43:19 2000 JILOVE U DECINA     ^   18^Black       ^S+N^0
+W  BISUJE          N49 38.8201 E016 45.3008 Fri Dec 22 07:42:50 2000 BISKUPICE U JEVICKA ^   18^Black       ^S+N^0
+W  TREST           N49 17.6298 E015 29.2824 Fri Dec 22 07:47:14 2000 TREST               ^   18^Black       ^S+N^0
+W  BOROHR          N50 05.9199 E016 05.6902 Fri Dec 22 07:42:51 2000 BOROHRADEK          ^   18^Black       ^S+N^0
+W  BRNANY          N50 28.7581 E014 08.7029 Fri Dec 22 07:42:53 2000 BRNANY              ^   18^Black       ^S+N^0
+W  HORTOS          N49 41.5946 E018 30.2990 Fri Dec 22 07:43:14 2000 HORNI TOSANOVICE    ^   18^Black       ^S+N^0
+W  ZBENIC          N49 35.5796 E014 05.2248 Fri Dec 22 07:47:27 2000 ZBENICE             ^   18^Black       ^S+N^0
+W  ROZTEZ          N49 54.2658 E015 11.3211 Fri Dec 22 07:47:00 2000 ROZTEZ              ^   18^Black       ^S+N^0
+W  SKAUHR          N49 31.1108 E017 47.8009 Fri Dec 22 07:47:02 2000 SKALICKA U HRANIC   ^   18^Black       ^S+N^0
+W  JABNVL          N49 46.8217 E014 26.9352 Fri Dec 22 07:43:17 2000 JABLONNA NAD VLTAVOU^   18^Black       ^S+N^0
+W  ZAMPAC          N50 02.2596 E016 25.9307 Fri Dec 22 07:47:26 2000 ZAMPACH             ^   18^Black       ^S+N^0
+W  HAJANY          N49 06.7173 E016 33.1221 Fri Dec 22 07:43:11 2000 HAJANY              ^   18^Black       ^S+N^0
+W  HOSUHO          N49 33.5737 E012 46.0482 Fri Dec 22 07:43:15 2000 HOSTOUN U HORSOVSKEH^   18^Black       ^S+N^0
+W  PLAVEC          N48 55.6503 E016 04.7606 Fri Dec 22 07:46:53 2000 PLAVEC              ^   18^Black       ^S+N^0
+W  TROUBS          N49 10.2643 E016 30.3154 Fri Dec 22 07:47:15 2000 TROUBSKO            ^   18^Black       ^S+N^0
+W  OBLAJO          N49 26.4489 E014 53.0073 Fri Dec 22 07:46:48 2000 OBLAJOVICE          ^   18^Black       ^S+N^0
+W  VLCUTR          N50 33.5333 E015 49.3736 Fri Dec 22 07:47:22 2000 VLCICE U TRUTNOVA   ^   18^Black       ^S+N^0
+W  BOHDAL          N49 12.8147 E017 01.8914 Fri Dec 22 07:42:50 2000 BOHDALICE           ^   18^Black       ^S+N^0
+W  HORLIB          N50 42.2585 E014 30.1948 Fri Dec 22 07:43:13 2000 HORNI LIBCHAVA      ^   18^Black       ^S+N^0
+W  OSTUJE          N48 52.9067 E014 35.9497 Fri Dec 22 07:46:50 2000 OSTROLOVSKY UJEZD   ^   18^Black       ^S+N^0
+W  ZAHRAD          N49 52.4131 E016 18.7563 Fri Dec 22 07:47:25 2000 ZAHRAD              ^   18^Black       ^S+N^0
+W  OSELIN          N49 46.3788 E012 51.3329 Fri Dec 22 07:46:50 2000 OSELIN              ^   18^Black       ^S+N^0
+W  ROKUPR          N49 28.0467 E017 23.6221 Fri Dec 22 07:46:59 2000 ROKYTNICE U PREROVA ^   18^Black       ^S+N^0
+W  VELMEZ          N49 21.4665 E016 00.7418 Fri Dec 22 07:47:19 2000 VELKE MEZIRICI      ^   18^Black       ^S+N^0
+W  VRADYJ          N48 53.5788 E015 48.7340 Fri Dec 22 07:47:23 2000 VRANOV NAD DYJI     ^   18^Black       ^S+N^0
+W  POLUJE          N48 57.9330 E015 37.6722 Fri Dec 22 07:46:54 2000 POLICE U JEMNICE    ^   18^Black       ^S+N^0
+W  VESTRE          N50 30.8400 E015 44.2801 Fri Dec 22 07:47:20 2000 VESTREV             ^   18^Black       ^S+N^0
+W  HORNJI          N50 19.5940 E014 51.5132 Fri Dec 22 07:43:14 2000 HORKY NAD JIZEROU   ^   18^Black       ^S+N^0
+W  UHROV           N49 48.6293 E015 33.8436 Fri Dec 22 07:47:16 2000 UHROV               ^   18^Black       ^S+N^0
+W  LUSTEN          N50 19.2271 E014 56.4902 Fri Dec 22 07:43:35 2000 LUSTENICE           ^   18^Black       ^S+N^0
+W  MNIPBR          N49 52.1041 E014 15.5158 Fri Dec 22 07:46:41 2000 MNISEK POD BRDY     ^   18^Black       ^S+N^0
+W  TUCHRI          N50 17.0332 E013 39.6153 Fri Dec 22 07:47:15 2000 TUCHORICE           ^   18^Black       ^S+N^0
+W  NEMYSL          N49 30.8224 E014 41.4906 Fri Dec 22 07:46:45 2000 NEMYSL              ^   18^Black       ^S+N^0
+W  DIVHRA          N50 14.7068 E017 38.1627 Fri Dec 22 07:43:05 2000 DIVCI HRAD          ^   18^Black       ^S+N^0
+W  KRINEC          N50 16.1771 E015 08.3789 Fri Dec 22 07:43:27 2000 KRINEC              ^   18^Black       ^S+N^0
+W  ZDANIC          N49 03.8797 E017 01.5125 Fri Dec 22 07:47:27 2000 ZDANICE             ^   18^Black       ^S+N^0
+W  ZAHULI          N50 31.9510 E014 12.9003 Fri Dec 22 07:47:26 2000 ZAHORANY U LITOMERIC^   18^Black       ^S+N^0
+W  VLKAVA          N50 16.4256 E014 57.7229 Fri Dec 22 07:47:22 2000 VLKAVA              ^   18^Black       ^S+N^0
+W  ZRUNSA          N49 44.6768 E015 06.0431 Fri Dec 22 07:47:29 2000 ZRUC NAD SAZAVOU    ^   18^Black       ^S+N^0
+W  POHLED          N49 36.1551 E015 39.0330 Fri Dec 22 07:46:54 2000 POHLED              ^   18^Black       ^S+N^0
+W  TEPTIN          N49 53.8216 E014 34.9745 Fri Dec 22 07:47:12 2000 TEPTIN              ^   18^Black       ^S+N^0
+W  NOVVCE          N49 14.4086 E015 04.4377 Fri Dec 22 07:46:47 2000 NOVA VCELNICE       ^   18^Black       ^S+N^0
+W  TRSICE          N49 32.6249 E017 25.6470 Fri Dec 22 07:47:15 2000 TRSICE              ^   18^Black       ^S+N^0
+W  DYMOKU          N50 14.7467 E015 12.3147 Fri Dec 22 07:43:10 2000 DYMOKURY            ^   18^Black       ^S+N^0
+W  TREBES          N49 55.7992 E015 20.4244 Fri Dec 22 07:47:13 2000 TREBESICE           ^   18^Black       ^S+N^0
+W  ZISOV           N49 54.1731 E015 04.0373 Fri Dec 22 07:47:29 2000 ZISOV               ^   18^Black       ^S+N^0
+W  SEC             N49 50.7716 E015 39.6230 Fri Dec 22 07:47:01 2000 SEC                 ^   18^Black       ^S+N^0
+W  MIRKNI          N48 58.7183 E016 19.1110 Fri Dec 22 07:46:40 2000 MIROSLAVSKE KNINICE ^   18^Black       ^S+N^0
+W  PLOSKO          N50 33.5926 E014 12.0110 Fri Dec 22 07:46:53 2000 PLOSKOVICE          ^   18^Black       ^S+N^0
+W  STUDEN          N49 11.2015 E015 17.1340 Fri Dec 22 07:47:10 2000 STUDENA             ^   18^Black       ^S+N^0
+W  HOSTIM          N49 01.1181 E015 53.8365 Fri Dec 22 07:43:15 2000 HOSTIM              ^   18^Black       ^S+N^0
+W  HRUSKA          N50 32.7248 E015 11.9339 Fri Dec 22 07:43:17 2000 HRUBA SKALA         ^   18^Black       ^S+N^0
+W  ZITENI          N50 33.2025 E014 09.4139 Fri Dec 22 07:47:29 2000 ZITENICE            ^   18^Black       ^S+N^0
+W  FRYDLA          N50 54.8807 E015 05.0547 Fri Dec 22 07:43:10 2000 FRYDLANT            ^   18^Black       ^S+N^0
+W  LAZOVI          N49 50.8811 E014 04.9683 Fri Dec 22 07:43:30 2000 LAZOVICE            ^   18^Black       ^S+N^0
+W  TEPNME          N50 35.7645 E016 10.0631 Fri Dec 22 07:47:12 2000 TEPLICE NAD METUJI  ^   18^Black       ^S+N^0
+W  VICEME          N49 20.7854 E017 10.3474 Fri Dec 22 07:47:21 2000 VICEMERICE          ^   18^Black       ^S+N^0
+W  BROUMO          N49 37.8520 E014 42.9837 Fri Dec 22 07:42:54 2000 BROUMOVICE          ^   18^Black       ^S+N^0
+W  ZVOLVS          N50 13.8429 E014 11.2765 Fri Dec 22 07:47:29 2000 ZVOLENEVES          ^   18^Black       ^S+N^0
+W  VALTIA          N48 45.0571 E016 45.6417 Fri Dec 22 07:47:18 2000 VALTICE             ^   18^Black       ^S+N^0
+W  ZABNMO          N49 52.9243 E016 52.2438 Fri Dec 22 07:47:25 2000 ZABREH NA MORAVE    ^   18^Black       ^S+N^0
+W  NEZDEN          N49 01.3332 E017 45.1172 Fri Dec 22 07:46:45 2000 NEZDENICE           ^   18^Black       ^S+N^0
+W  TRENDO          N49 51.9690 E015 34.7783 Fri Dec 22 07:47:14 2000 TREMOSNICE NAD DOUBR^   18^Black       ^S+N^0
+W  TETUBE          N49 24.2847 E013 11.9777 Fri Dec 22 07:47:13 2000 TETETICE U BEZDEKOVA^   18^Black       ^S+N^0
+W  HODKOV          N49 47.0869 E015 08.8778 Fri Dec 22 07:43:12 2000 HODKOV              ^   18^Black       ^S+N^0
+W  RUDNMO          N49 58.5221 E016 52.5602 Fri Dec 22 07:47:01 2000 RUDA NAD MORAVOU    ^   18^Black       ^S+N^0
+W  ZDOUNK          N49 13.8563 E017 18.8224 Fri Dec 22 07:47:28 2000 ZDOUNKY             ^   18^Black       ^S+N^0
+W  DOLZIV          N49 53.8705 E017 46.6103 Fri Dec 22 07:43:08 2000 DOLNI ZIVOTICE      ^   18^Black       ^S+N^0
+W  MOCHTI          N49 21.6853 E013 21.9590 Fri Dec 22 07:46:41 2000 MOCHTIN             ^   18^Black       ^S+N^0
+W  KRANBE          N49 28.8127 E017 58.0063 Fri Dec 22 07:43:26 2000 KRASNO NAD BECVOU   ^   18^Black       ^S+N^0
+W  PYSELY          N49 52.6668 E014 40.8639 Fri Dec 22 07:46:57 2000 PYSELY              ^   18^Black       ^S+N^0
+W  KOSMON          N50 26.4214 E014 55.3543 Fri Dec 22 07:43:25 2000 KOSMONOSY           ^   18^Black       ^S+N^0
+W  NOVLHO          N49 53.2925 E015 18.1079 Fri Dec 22 07:46:46 2000 NOVA LHOTA          ^   18^Black       ^S+N^0
+W  PETROH          N50 07.5550 E013 26.5221 Fri Dec 22 07:46:52 2000 PETROHRAD           ^   18^Black       ^S+N^0
+W  ZBOROV          N49 14.8515 E017 16.9212 Fri Dec 22 07:47:27 2000 ZBOROVICE           ^   18^Black       ^S+N^0
+W  DIVNIC          N49 05.0282 E017 54.8311 Fri Dec 22 07:43:05 2000 DIVNICE             ^   18^Black       ^S+N^0
+W  SKVORC          N50 02.7901 E014 44.0427 Fri Dec 22 07:47:03 2000 SKVOREC             ^   18^Black       ^S+N^0
+W  ZIHOBC          N49 12.8727 E013 37.7935 Fri Dec 22 07:47:28 2000 ZIHOBCE             ^   18^Black       ^S+N^0
+W  OSTRED          N49 49.9953 E014 49.6032 Fri Dec 22 07:46:50 2000 OSTREDEK            ^   18^Black       ^S+N^0
+W  SPALOV          N49 42.2989 E017 43.2095 Fri Dec 22 07:47:06 2000 SPALOV              ^   18^Black       ^S+N^0
+W  DOBRVI          N50 22.0209 E014 57.8201 Fri Dec 22 07:43:06 2000 DOBROVICE           ^   18^Black       ^S+N^0
+W  KAMNLI          N49 18.0830 E015 04.7421 Fri Dec 22 07:43:21 2000 KAMENICE NAD LIPOU  ^   18^Black       ^S+N^0
+W  PODURO          N49 56.2060 E015 32.0212 Fri Dec 22 07:46:54 2000 PODHORANY U RONOVA  ^   18^Black       ^S+N^0
+W  LITENC          N49 12.0268 E017 12.4521 Fri Dec 22 07:43:33 2000 LITENCICE           ^   18^Black       ^S+N^0
+W  CHROPY          N49 21.4240 E017 21.9500 Fri Dec 22 07:43:02 2000 CHROPYNE            ^   18^Black       ^S+N^0
+W  DACICE          N49 04.7166 E015 25.8105 Fri Dec 22 07:43:03 2000 DACICE              ^   18^Black       ^S+N^0
+W  RAJNSV          N49 24.5692 E016 38.6537 Fri Dec 22 07:46:58 2000 RAJEC NAD SVITAVOU  ^   18^Black       ^S+N^0
+W  VOHANC          N49 19.3821 E016 23.5170 Fri Dec 22 07:47:23 2000 VOHANCICE           ^   18^Black       ^S+N^0
+W  CHRIC           N49 58.4076 E013 38.9844 Fri Dec 22 07:43:02 2000 CHRIC               ^   18^Black       ^S+N^0
+W  SUDUBE          N49 17.4753 E014 33.6574 Fri Dec 22 07:47:10 2000 SUDOMERICE U BECHYNE^   18^Black       ^S+N^0
+W  POTSTA          N49 38.1867 E017 39.1495 Fri Dec 22 07:46:55 2000 POTSTAT-MESTO       ^   18^Black       ^S+N^0
+W  NOVVES          N49 31.2692 E015 54.3242 Fri Dec 22 07:46:47 2000 NOVE VESELI         ^   18^Black       ^S+N^0
+W  LHOUZL          N50 40.8204 E015 19.2534 Fri Dec 22 07:43:31 2000 LHOTKA U ZLATE OLESN^   18^Black       ^S+N^0
+W  MALESI          N49 46.3325 E013 18.1787 Fri Dec 22 07:43:36 2000 MALESICE            ^   18^Black       ^S+N^0
+W  RADUKA          N50 17.9808 E013 17.2366 Fri Dec 22 07:46:58 2000 RADONICE U KADANE   ^   18^Black       ^S+N^0
+W  RTISOV          N49 36.9121 E014 04.0130 Fri Dec 22 07:47:01 2000 RTISOVICE           ^   18^Black       ^S+N^0
+W  CERUUM          N49 32.9352 E014 36.8117 Fri Dec 22 07:42:59 2000 CERVENY UJEZD U MILI^   18^Black       ^S+N^0
+W  CIZKOV          N49 26.4180 E015 07.1709 Fri Dec 22 07:43:03 2000 CIZKOV              ^   18^Black       ^S+N^0
+W  SKRUGJ          N49 50.8566 E015 29.5621 Fri Dec 22 07:47:03 2000 SKRYJE U GOLCOVA JEN^   18^Black       ^S+N^0
+W  JEMNIC          N49 00.9611 E015 34.3364 Fri Dec 22 07:43:18 2000 JEMNICE             ^   18^Black       ^S+N^0
+W  DUBA            N50 32.8999 E014 32.7584 Fri Dec 22 07:43:09 2000 DUBA                ^   18^Black       ^S+N^0
+W  KLECAN          N50 10.7080 E014 24.5966 Fri Dec 22 07:43:22 2000 KLECANY             ^   18^Black       ^S+N^0
+W  BRAUSU          N50 09.0523 E017 00.7317 Fri Dec 22 07:42:53 2000 BRANNA U SUMPERKA   ^   18^Black       ^S+N^0
+W  POUZDR          N48 55.9451 E016 37.4563 Fri Dec 22 07:46:55 2000 POUZDRANY           ^   18^Black       ^S+N^0
+W  CASTOL          N50 07.8318 E016 11.2749 Fri Dec 22 07:42:56 2000 CASTOLOVICE         ^   18^Black       ^S+N^0
+W  NACERA          N49 36.6121 E014 54.4605 Fri Dec 22 07:46:43 2000 NACERADEC           ^   18^Black       ^S+N^0
+W  ULICE           N49 45.6115 E013 08.9724 Fri Dec 22 07:47:17 2000 ULICE               ^   18^Black       ^S+N^0
+W  JEZOVY          N49 29.5633 E013 13.7756 Fri Dec 22 07:43:19 2000 JEZOVY              ^   18^Black       ^S+N^0
+W  KLANOS          N49 09.3334 E016 09.7261 Fri Dec 22 07:43:22 2000 KLADERUBY NAD OSLAVO^   18^Black       ^S+N^0
+W  DOBRS           N49 09.3476 E013 45.1340 Fri Dec 22 07:43:06 2000 DOBRS               ^   18^Black       ^S+N^0
+W  LIPUSL          N51 00.7760 E014 21.5292 Fri Dec 22 07:43:33 2000 LIPOVA U SLUKNOVA   ^   18^Black       ^S+N^0
+W  KORYCA          N49 06.2062 E017 09.8360 Fri Dec 22 07:43:24 2000 KORYCANY            ^   18^Black       ^S+N^0
+W  BRATRO          N49 21.9351 E013 50.6321 Fri Dec 22 07:42:52 2000 BRATRONICE          ^   18^Black       ^S+N^0
+W  VYSOVI          N49 25.0559 E017 08.5601 Fri Dec 22 07:47:25 2000 VYSOVICE            ^   18^Black       ^S+N^0
+W  VYSCHL          N49 37.0434 E014 23.5347 Fri Dec 22 07:47:24 2000 VYSOKY CHLUMEC      ^   18^Black       ^S+N^0
+W  MYSLIB          N49 06.2113 E015 58.9091 Fri Dec 22 07:46:43 2000 MYSLIBORICE         ^   18^Black       ^S+N^0
+W  DOBRVT          N49 47.1371 E015 19.7163 Fri Dec 22 07:43:06 2000 DOBROVITOV          ^   18^Black       ^S+N^0
+W  ZASMUK          N49 57.2450 E015 01.6326 Fri Dec 22 07:47:27 2000 ZASMUKY             ^   18^Black       ^S+N^0
+W  JEMNIS          N49 44.6098 E014 47.2346 Fri Dec 22 07:43:18 2000 JEMNISTE            ^   18^Black       ^S+N^0
+W  NEDRAZ          N49 39.3081 E013 01.9966 Fri Dec 22 07:46:44 2000 NEDRAZICE           ^   18^Black       ^S+N^0
+W  NEMUVO          N49 11.6225 E013 48.0971 Fri Dec 22 07:46:45 2000 NEMCICE U VOLYNE    ^   18^Black       ^S+N^0
+W  DRNHOL          N48 51.4699 E016 29.3132 Fri Dec 22 07:43:09 2000 DRNHOLEC            ^   18^Black       ^S+N^0
+W  BOLEBO          N50 32.2729 E013 25.0287 Fri Dec 22 07:42:51 2000 BOLEBOR             ^   18^Black       ^S+N^0
+W  BORNVL          N48 55.6954 E014 26.4647 Fri Dec 22 07:42:51 2000 BORSOV NAD VLTAVOU  ^   18^Black       ^S+N^0
+W  HORPOL          N50 42.3421 E014 24.3455 Fri Dec 22 07:43:14 2000 HORNI POLICE        ^   18^Black       ^S+N^0
+W  CHLUTR          N48 57.5982 E014 55.9021 Fri Dec 22 07:43:00 2000 CHLUM U TREBONE     ^   18^Black       ^S+N^0
+W  PODBRE          N50 15.7883 E016 12.8008 Fri Dec 22 07:46:53 2000 PODBREZI            ^   18^Black       ^S+N^0
+W  KOLIN           N50 01.9197 E015 11.9622 Fri Dec 22 07:43:24 2000 KOLIN               ^   18^Black       ^S+N^0
+W  HORBRA          N50 36.4919 E015 34.1574 Fri Dec 22 07:43:13 2000 HORNI BRANNA        ^   18^Black       ^S+N^0
+W  RADI            N50 00.6941 E015 08.9418 Fri Dec 22 07:46:57 2000 RADOVESNICE I       ^   18^Black       ^S+N^0
+W  MORKOV          N49 14.7923 E017 12.4801 Fri Dec 22 07:46:42 2000 MORKOVICE           ^   18^Black       ^S+N^0
+W  BOUDY           N49 26.6317 E014 02.0328 Fri Dec 22 07:42:52 2000 BOUDY               ^   18^Black       ^S+N^0
+W  BUDKOV          N49 03.0944 E015 39.8750 Fri Dec 22 07:42:55 2000 BUDKOV              ^   18^Black       ^S+N^0
+W  KVASIC          N49 14.6159 E017 28.4794 Fri Dec 22 07:43:29 2000 KVASICE             ^   18^Black       ^S+N^0
+W  NOVBYS          N49 01.2147 E015 06.3270 Fri Dec 22 07:46:46 2000 NOVA BYSTRICE       ^   18^Black       ^S+N^0
+W  ZIRMES          N50 24.7310 E015 51.3257 Fri Dec 22 07:47:28 2000 ZIREC MESTYS        ^   18^Black       ^S+N^0
+W  ZADLOV          N49 44.8248 E016 54.4791 Fri Dec 22 07:47:25 2000 ZADLOVICE           ^   18^Black       ^S+N^0
+W  KOSPMI          N50 33.7277 E013 52.1281 Fri Dec 22 07:43:25 2000 KOSTOMLATY POD MILES^   18^Black       ^S+N^0
+W  CERPEC          N49 58.7565 E015 12.4495 Fri Dec 22 07:42:58 2000 CERVENE PECKY       ^   18^Black       ^S+N^0
+W  HRAPME          N49 52.0411 E014 24.5869 Fri Dec 22 07:43:16 2000 HRADISTKO POD MEDNIK^   18^Black       ^S+N^0
+W  SYKORI          N50 01.2490 E013 59.0028 Fri Dec 22 07:47:12 2000 SYKORICE            ^   18^Black       ^S+N^0
+W  KLOUVI          N49 45.3849 E017 43.0599 Fri Dec 22 07:43:23 2000 KLOKOCOV U VITKOVA  ^   18^Black       ^S+N^0
+W  LODENI          N49 59.7439 E017 46.8640 Fri Dec 22 07:43:34 2000 LODENICE            ^   18^Black       ^S+N^0
+W  DEPOLT          N50 17.2174 E012 49.2968 Fri Dec 22 07:43:04 2000 DEPOLTOVICE         ^   18^Black       ^S+N^0
+W  VALMEZ          N49 28.2346 E017 58.0964 Fri Dec 22 07:47:17 2000 VALASSKE MEZIRICI-ME^   18^Black       ^S+N^0
+W  CESDUB          N50 39.8252 E014 59.6274 Fri Dec 22 07:42:59 2000 CESKY DUB           ^   18^Black       ^S+N^0
+W  LAZBEL          N50 25.7378 E015 34.8520 Fri Dec 22 07:43:30 2000 LAZNE BELOHRAD      ^   18^Black       ^S+N^0
+W  CIMELI          N49 27.9797 E014 03.9138 Fri Dec 22 07:43:03 2000 CIMELICE            ^   18^Black       ^S+N^0
+W  LESNSA          N49 50.5824 E014 31.4916 Fri Dec 22 07:43:31 2000 LESANY NAD SAZAVOU  ^   18^Black       ^S+N^0
+W  CHOTEL          N50 18.5949 E015 28.4778 Fri Dec 22 07:43:01 2000 CHOTELICE           ^   18^Black       ^S+N^0
+W  LIBOCE          N50 24.2636 E014 02.6492 Fri Dec 22 07:43:32 2000 LIBOCHOVICE         ^   18^Black       ^S+N^0
+W  MLAVCE          N50 29.0465 E015 13.9343 Fri Dec 22 07:46:41 2000 MLADEJOV V CECHACH  ^   18^Black       ^S+N^0
+W  BOSKOV          N49 29.0856 E016 39.5362 Fri Dec 22 07:42:52 2000 BOSKOVICE           ^   18^Black       ^S+N^0
+W  SMELHO          N49 26.0859 E014 04.8151 Fri Dec 22 07:47:04 2000 SMETANOVA LHOTA     ^   18^Black       ^S+N^0
+W  JAVUTO          N50 08.2283 E012 56.9549 Fri Dec 22 07:43:18 2000 JAVORNA U TOUZIMI   ^   18^Black       ^S+N^0
+W  UJENRO          N49 01.3718 E016 03.1565 Fri Dec 22 07:47:17 2000 UJEZD NAD ROKYTNOU  ^   18^Black       ^S+N^0
+W  CESKRI          N48 50.8558 E016 16.4273 Fri Dec 22 07:42:59 2000 CESKE KRIDLOVICE    ^   18^Black       ^S+N^0
+W  STAHRO          N50 01.4653 E012 23.4594 Fri Dec 22 07:47:07 2000 STARY HROZNATOV     ^   18^Black       ^S+N^0
+W  MILICE          N50 22.6852 E015 23.5507 Fri Dec 22 07:46:40 2000 MILICEVES           ^   18^Black       ^S+N^0
+W  OLDRIS          N49 59.5173 E017 57.7182 Fri Dec 22 07:46:49 2000 OLDRISOV            ^   18^Black       ^S+N^0
+W  STAJIC          N49 34.5728 E017 57.8628 Fri Dec 22 07:47:07 2000 STARY JICIN         ^   18^Black       ^S+N^0
+W  BOHUTI          N48 59.5384 E016 21.5720 Fri Dec 22 07:42:51 2000 BOHUTICE            ^   18^Black       ^S+N^0
+W  JIRUMI          N48 55.1327 E016 23.5997 Fri Dec 22 07:43:20 2000 JIRICE U MIROSLAVI  ^   18^Black       ^S+N^0
+W  KARREC          N49 11.1230 E014 51.3664 Fri Dec 22 07:43:21 2000 KARDASOVA RECICE    ^   18^Black       ^S+N^0
+W  HLUNVL          N49 03.1317 E014 26.4360 Fri Dec 22 07:43:12 2000 HLUBOKA NAD VLTAVOU ^   18^Black       ^S+N^0
+W  KNINIC          N49 05.6564 E015 36.4391 Fri Dec 22 07:43:23 2000 KNINICE             ^   18^Black       ^S+N^0
+W  ZERANO          N49 17.5809 E017 36.1977 Fri Dec 22 07:47:28 2000 ZERANOVICE          ^   18^Black       ^S+N^0
+W  BELNRA          N49 35.5320 E012 42.7256 Fri Dec 22 07:42:48 2000 BELA NAD RADBUZOU   ^   18^Black       ^S+N^0
+W  VELTYN          N49 33.0626 E017 20.0851 Fri Dec 22 07:47:19 2000 VELKY TYNEC         ^   18^Black       ^S+N^0
+W  BACKOV          N49 43.9880 E015 27.7613 Fri Dec 22 07:42:47 2000 BACKOV              ^   18^Black       ^S+N^0
+W  MANETI          N49 59.3847 E013 14.0627 Fri Dec 22 07:43:36 2000 MANETIN             ^   18^Black       ^S+N^0
+W  STAHOB          N49 00.6096 E015 27.0783 Fri Dec 22 07:47:06 2000 STARE HOBZI         ^   18^Black       ^S+N^0
+W  STASU           N50 10.6899 E012 42.8460 Fri Dec 22 07:47:07 2000 STARE SEDLO U SOKOLO^   18^Black       ^S+N^0
+W  OSOVA           N49 19.7812 E016 11.5761 Fri Dec 22 07:46:50 2000 OSOVA               ^   18^Black       ^S+N^0
+W  VYKLAN          N49 33.1669 E015 02.4183 Fri Dec 22 07:47:24 2000 VYKLANTICE          ^   18^Black       ^S+N^0
+W  HRANIC          N49 33.0111 E017 44.0721 Fri Dec 22 07:43:15 2000 HRANICE             ^   18^Black       ^S+N^0
+W  NOVSYR          N49 01.1220 E015 46.3152 Fri Dec 22 07:46:47 2000 NOVE SYROVICE       ^   18^Black       ^S+N^0
+W  PREUDN          N49 36.0328 E013 14.7312 Fri Dec 22 07:46:55 2000 PRESTAVLKY U DNESIC ^   18^Black       ^S+N^0
+W  RUDOLE          N49 28.6788 E015 49.8026 Fri Dec 22 07:47:01 2000 RUDOLEC             ^   18^Black       ^S+N^0
+W  SIRNIV          N50 04.0376 E017 29.2921 Fri Dec 22 07:47:02 2000 SIROKA NIVA         ^   18^Black       ^S+N^0
+W  TOUZIM          N50 03.6218 E012 58.9180 Fri Dec 22 07:47:13 2000 TOUZIM              ^   18^Black       ^S+N^0
+W  STUUHO          N50 32.7763 E015 33.6260 Fri Dec 22 07:47:10 2000 STUDENEC U HOREK    ^   18^Black       ^S+N^0
+W  BUCHCE          N49 05.1067 E017 20.2322 Fri Dec 22 07:42:54 2000 BUCHLOVICE          ^   18^Black       ^S+N^0
+W  KURIM           N49 17.7740 E016 31.4101 Fri Dec 22 07:43:29 2000 KURIM               ^   18^Black       ^S+N^0
+W  NOVVUC          N49 21.3905 E014 05.7246 Fri Dec 22 07:46:47 2000 NOVA VES U CIZOVE   ^   18^Black       ^S+N^0
+W  SVINAR          N49 53.5860 E014 11.0898 Fri Dec 22 07:47:11 2000 SVINARE             ^   18^Black       ^S+N^0
+W  KOLESO          N50 08.3944 E013 36.5044 Fri Dec 22 07:43:23 2000 KOLESOVICE          ^   18^Black       ^S+N^0
+W  MEDLES          N49 58.7706 E015 46.1961 Fri Dec 22 07:43:37 2000 MEDLESICE           ^   18^Black       ^S+N^0
+W  DIRNA           N49 14.4781 E014 50.5872 Fri Dec 22 07:43:05 2000 DIRNA               ^   18^Black       ^S+N^0
+W  DRAHEN          N49 31.1675 E013 57.7501 Fri Dec 22 07:43:09 2000 DRAHENICE           ^   18^Black       ^S+N^0
+W  HROTOV          N49 06.5435 E016 03.3383 Fri Dec 22 07:43:16 2000 HROTOVICE           ^   18^Black       ^S+N^0
+W  BILA            N49 26.3137 E018 26.8068 Fri Dec 22 07:42:49 2000 BILA                ^   18^Black       ^S+N^0
+W  IVANHA          N49 18.3521 E017 05.8226 Fri Dec 22 07:43:17 2000 IVANOVICE NA HANE   ^   18^Black       ^S+N^0
+W  DOLDLO          N49 49.2923 E017 11.8190 Fri Dec 22 07:43:07 2000 DOLNI DLOUHA LOUCKA ^   18^Black       ^S+N^0
+W  ROZVAD          N49 37.7593 E012 35.7794 Fri Dec 22 07:47:00 2000 ROZVADOV            ^   18^Black       ^S+N^0
+W  POHUNA          N49 10.4522 E017 32.2529 Fri Dec 22 07:46:54 2000 POHORELICE U NAPAJED^   18^Black       ^S+N^0
+W  BROUZA          N49 53.3247 E012 35.8383 Fri Dec 22 07:42:54 2000 BROUMOV U ZADNIHO CH^   18^Black       ^S+N^0
+W  DASNIC          N50 08.2862 E012 34.6700 Fri Dec 22 07:43:04 2000 DASNICE             ^   18^Black       ^S+N^0
+W  BLANSK          N49 21.9608 E016 38.6888 Fri Dec 22 07:42:50 2000 BLANSKO             ^   18^Black       ^S+N^0
+W  SKRIVY          N50 16.1616 E015 30.2747 Fri Dec 22 07:47:03 2000 SKRIVANY            ^   18^Black       ^S+N^0
+W  UHY             N50 17.0744 E014 16.3301 Fri Dec 22 07:47:17 2000 UHY                 ^   18^Black       ^S+N^0
+W  SVIHLS          N49 53.6787 E013 37.3323 Fri Dec 22 07:47:11 2000 SVINNA U HLOHOVIC   ^   18^Black       ^S+N^0
+W  BRAVAN          N49 45.4197 E018 04.8720 Fri Dec 22 07:42:53 2000 BRAVANTICE          ^   18^Black       ^S+N^0
+W  BECVAR          N49 57.3480 E015 05.0051 Fri Dec 22 07:42:48 2000 BECVARY             ^   18^Black       ^S+N^0
+W  HLAVNI          N49 55.5533 E017 43.7538 Fri Dec 22 07:43:12 2000 HLAVNICE            ^   18^Black       ^S+N^0
+W  LIBCEV          N50 26.9184 E013 50.2091 Fri Dec 22 07:43:31 2000 LIBCEVES            ^   18^Black       ^S+N^0
+W  MLADEC          N49 43.2284 E017 01.7942 Fri Dec 22 07:46:41 2000 MLADEC              ^   18^Black       ^S+N^0
+W  OSTROH          N50 08.0532 E012 17.1660 Fri Dec 22 07:46:50 2000 OSTROH              ^   18^Black       ^S+N^0
+W  STRKOV          N50 19.6301 E013 38.9458 Fri Dec 22 07:47:09 2000 STRKOVICE           ^   18^Black       ^S+N^0
+W  VSERAD          N49 52.3655 E014 06.3352 Fri Dec 22 07:47:24 2000 VSERADICE           ^   18^Black       ^S+N^0
+W  HORVPO          N50 22.1947 E015 38.3124 Fri Dec 22 07:43:14 2000 HORICE V PODKRKONOSI^   18^Black       ^S+N^0
+W  LITULT          N49 54.2259 E017 44.9144 Fri Dec 22 07:43:34 2000 LITULTOVICE         ^   18^Black       ^S+N^0
+W  JINDIC          N49 54.8542 E015 05.2529 Fri Dec 22 07:43:20 2000 JINDICE             ^   18^Black       ^S+N^0
+W  KVASIN          N50 12.4434 E016 15.0433 Fri Dec 22 07:43:29 2000 KVASINY             ^   18^Black       ^S+N^0
+W  PRIUHO          N49 19.1683 E017 36.7880 Fri Dec 22 07:46:56 2000 PRILEPY U HOLESOVA  ^   18^Black       ^S+N^0
+W  CHOTEB          N49 46.1535 E018 34.1823 Fri Dec 22 07:43:01 2000 CHOTEBUZ            ^   18^Black       ^S+N^0
+W  TREBIV          N50 27.4565 E013 54.0149 Fri Dec 22 07:47:13 2000 TREBIVLICE          ^   18^Black       ^S+N^0
+W  TULESI          N49 02.4005 E016 12.3409 Fri Dec 22 07:47:15 2000 TULESICE            ^   18^Black       ^S+N^0
+W  HORNED          N50 16.6303 E015 47.2071 Fri Dec 22 07:43:14 2000 HORNI NEDELISTE     ^   18^Black       ^S+N^0
+W  RADUKO          N50 04.2874 E015 00.5933 Fri Dec 22 07:46:58 2000 RADIM U KOLINA      ^   18^Black       ^S+N^0
+W  KOMARI          N48 52.7059 E014 32.5585 Fri Dec 22 07:43:24 2000 KOMARICE            ^   18^Black       ^S+N^0
+W  KOSUST          N49 41.1350 E013 01.8917 Fri Dec 22 07:43:25 2000 KOSTELEC U STRIBRA  ^   18^Black       ^S+N^0
+W  PODKLA          N49 12.9988 E015 52.1609 Fri Dec 22 07:46:53 2000 PODKLASTERI         ^   18^Black       ^S+N^0
+W  DOLNER          N49 29.9534 E014 03.8681 Fri Dec 22 07:43:07 2000 DOLNI NERESTCE      ^   18^Black       ^S+N^0
+W  BIUHHR          N49 05.9294 E017 32.9813 Fri Dec 22 07:42:50 2000 BILOVICE U UH HRADIS^   18^Black       ^S+N^0
+W  KONOPI          N49 46.6827 E014 39.5655 Fri Dec 22 07:43:24 2000 KONOPISTE           ^   18^Black       ^S+N^0
+W  MLADCO          N49 54.4512 E017 42.7052 Fri Dec 22 07:46:41 2000 MLADECKO            ^   18^Black       ^S+N^0
+W  OPOCNO          N50 15.9853 E016 06.9480 Fri Dec 22 07:46:49 2000 OPOCNO POD ORLICKYMI^   18^Black       ^S+N^0
